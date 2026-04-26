@@ -1,0 +1,19 @@
+{
+  "coordinate_system": "Reference pixels mapped to 16:9 slide at 105 px per inch.",
+  "image_scaling": "uniform contain; no one-axis stretch for semantic assets",
+  "native_allowed": [
+    "text boxes",
+    "panels",
+    "dividers",
+    "structural arrows",
+    "flow connectors"
+  ],
+  "native_forbidden": [
+    "semantic satellite icons",
+    "chart icons",
+    "robot/user icons",
+    "dashboard screens",
+    "network pictograms"
+  ],
+  "font": "Microsoft YaHei"
+}

@@ -1,0 +1,4922 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/87sv4w",
+    "id": "87sv4w",
+    "slide": 1,
+    "layoutId": "5b976c65-24e2-4c68-a42b-fd5df6fdd606",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "1a7c1622-0015-495e-b7f6-74c86148db1c",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1672,
+      "height": 941
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "5b976c65-24e2-4c68-a42b-fd5df6fdd606",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "1a7c1622-0015-495e-b7f6-74c86148db1c",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "1a7c1622-0015-495e-b7f6-74c86148db1c",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1cfa9w3m",
+      "id": "1",
+      "name": "background",
+      "bbox": [
+        0,
+        0,
+        1672,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#F6FBFF",
+      "lineColor": "#F6FBFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ulwval87",
+      "id": "2",
+      "name": "grid-v-0",
+      "bbox": [
+        0,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j6tovaho",
+      "id": "3",
+      "name": "grid-v-42",
+      "bbox": [
+        42,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c3ylc7u5",
+      "id": "4",
+      "name": "grid-v-84",
+      "bbox": [
+        84,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1kre1w7m",
+      "id": "5",
+      "name": "grid-v-126",
+      "bbox": [
+        126,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/uxc3ylc7",
+      "id": "6",
+      "name": "grid-v-168",
+      "bbox": [
+        168,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ji5snelo",
+      "id": "7",
+      "name": "grid-v-210",
+      "bbox": [
+        210,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8bat47y1",
+      "id": "8",
+      "name": "grid-v-252",
+      "bbox": [
+        252,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1w7mp0bi",
+      "id": "9",
+      "name": "grid-v-294",
+      "bbox": [
+        294,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d0z61032",
+      "id": "10",
+      "name": "grid-v-336",
+      "bbox": [
+        336,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kf6dcbul",
+      "id": "11",
+      "name": "grid-v-378",
+      "bbox": [
+        378,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vu9knih4",
+      "id": "12",
+      "name": "grid-v-420",
+      "bbox": [
+        420,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/29gr2p8n",
+      "id": "13",
+      "name": "grid-v-462",
+      "bbox": [
+        462,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d8bat47y",
+      "id": "14",
+      "name": "grid-v-504",
+      "bbox": [
+        504,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/knih4byh",
+      "id": "15",
+      "name": "grid-v-546",
+      "bbox": [
+        546,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v6psfil0",
+      "id": "16",
+      "name": "grid-v-588",
+      "bbox": [
+        588,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2lszqtcj",
+      "id": "17",
+      "name": "grid-v-630",
+      "bbox": [
+        630,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcbulwva",
+      "id": "18",
+      "name": "grid-v-672",
+      "bbox": [
+        672,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kre1w7mp",
+      "id": "19",
+      "name": "grid-v-714",
+      "bbox": [
+        714,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kzupwb2h",
+      "id": "20",
+      "name": "grid-v-756",
+      "bbox": [
+        756,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9knih4by",
+      "id": "21",
+      "name": "grid-v-798",
+      "bbox": [
+        798,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2t83itgf",
+      "id": "22",
+      "name": "grid-v-840",
+      "bbox": [
+        840,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/re1w7mp0",
+      "id": "23",
+      "name": "grid-v-882",
+      "bbox": [
+        882,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kb6xkf6d",
+      "id": "24",
+      "name": "grid-v-924",
+      "bbox": [
+        924,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9w3m94fu",
+      "id": "25",
+      "name": "grid-v-966",
+      "bbox": [
+        966,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/25kb6xkf",
+      "id": "26",
+      "name": "grid-v-1008",
+      "bbox": [
+        1008,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rqd4vmtw",
+      "id": "27",
+      "name": "grid-v-1050",
+      "bbox": [
+        1050,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kjm1cfa9",
+      "id": "28",
+      "name": "grid-v-1092",
+      "bbox": [
+        1092,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/94fu18jq",
+      "id": "29",
+      "name": "grid-v-1134",
+      "bbox": [
+        1134,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fmlkjm1c",
+      "id": "30",
+      "name": "grid-v-1176",
+      "bbox": [
+        1176,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q1orytsv",
+      "id": "31",
+      "name": "grid-v-1218",
+      "bbox": [
+        1218,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xs72x4na",
+      "id": "32",
+      "name": "grid-v-1260",
+      "bbox": [
+        1260,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/87ed8bat",
+      "id": "33",
+      "name": "grid-v-1302",
+      "bbox": [
+        1302,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/je9cvixc",
+      "id": "34",
+      "name": "grid-v-1344",
+      "bbox": [
+        1344,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qtcj6tov",
+      "id": "35",
+      "name": "grid-v-1386",
+      "bbox": [
+        1386,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1gvy90je",
+      "id": "36",
+      "name": "grid-v-1428",
+      "bbox": [
+        1428,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8z25kb6x",
+      "id": "37",
+      "name": "grid-v-1470",
+      "bbox": [
+        1470,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fa9w3m94",
+      "id": "38",
+      "name": "grid-v-1512",
+      "bbox": [
+        1512,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 39,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpg3ex0n",
+      "id": "39",
+      "name": "grid-v-1554",
+      "bbox": [
+        1554,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 40,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/al87ed8b",
+      "id": "40",
+      "name": "grid-v-1596",
+      "bbox": [
+        1596,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 41,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z61032ls",
+      "id": "41",
+      "name": "grid-v-1638",
+      "bbox": [
+        1638,
+        0,
+        1,
+        941
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 42,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/orytsvu9",
+      "id": "42",
+      "name": "grid-h-0",
+      "bbox": [
+        0,
+        0,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 43,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcrmhk3q",
+      "id": "43",
+      "name": "grid-h-42",
+      "bbox": [
+        0,
+        42,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 44,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a9w3m94f",
+      "id": "44",
+      "name": "grid-h-84",
+      "bbox": [
+        0,
+        84,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 45,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zupwb2hw",
+      "id": "45",
+      "name": "grid-h-126",
+      "bbox": [
+        0,
+        126,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 46,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sfil0rqd",
+      "id": "46",
+      "name": "grid-h-168",
+      "bbox": [
+        0,
+        168,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 47,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h0fepkzu",
+      "id": "47",
+      "name": "grid-h-210",
+      "bbox": [
+        0,
+        210,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 48,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/65wjudg7",
+      "id": "48",
+      "name": "grid-h-252",
+      "bbox": [
+        0,
+        252,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 49,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zqtcj6to",
+      "id": "49",
+      "name": "grid-h-294",
+      "bbox": [
+        0,
+        294,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 50,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/psfil0rq",
+      "id": "50",
+      "name": "grid-h-336",
+      "bbox": [
+        0,
+        336,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 51,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w7mp0bi9",
+      "id": "51",
+      "name": "grid-h-378",
+      "bbox": [
+        0,
+        378,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 52,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7mp0bi9s",
+      "id": "52",
+      "name": "grid-h-420",
+      "bbox": [
+        0,
+        420,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 53,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e1w7mp0b",
+      "id": "53",
+      "name": "grid-h-462",
+      "bbox": [
+        0,
+        462,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 54,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pg3ex0nu",
+      "id": "54",
+      "name": "grid-h-504",
+      "bbox": [
+        0,
+        504,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 55,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wval87ed",
+      "id": "55",
+      "name": "grid-h-546",
+      "bbox": [
+        0,
+        546,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 56,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7adsji5s",
+      "id": "56",
+      "name": "grid-h-588",
+      "bbox": [
+        0,
+        588,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 57,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/epkzupwb",
+      "id": "57",
+      "name": "grid-h-630",
+      "bbox": [
+        0,
+        630,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 58,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lc7u54zi",
+      "id": "58",
+      "name": "grid-h-672",
+      "bbox": [
+        0,
+        672,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 59,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wra5gbq1",
+      "id": "59",
+      "name": "grid-h-714",
+      "bbox": [
+        0,
+        714,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 60,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s36hcrmh",
+      "id": "60",
+      "name": "grid-h-756",
+      "bbox": [
+        0,
+        756,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 61,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hoza1gvy",
+      "id": "61",
+      "name": "grid-h-798",
+      "bbox": [
+        0,
+        798,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 62,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a1gvy90j",
+      "id": "62",
+      "name": "grid-h-840",
+      "bbox": [
+        0,
+        840,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 63,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zidonyd0",
+      "id": "63",
+      "name": "grid-h-882",
+      "bbox": [
+        0,
+        882,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 64,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/svu9knih",
+      "id": "64",
+      "name": "grid-h-924",
+      "bbox": [
+        0,
+        924,
+        1672,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#EAF3FD",
+      "lineColor": "#EAF3FD",
+      "lineWidth": 0
+    },
+    {
+      "order": 65,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hgn29gr2",
+      "id": "65",
+      "name": "title",
+      "bbox": [
+        410,
+        8,
+        865,
+        62
+      ],
+      "geometry": "rect",
+      "text": "多模态医学 AI 辅助诊疗流程架构",
+      "textPreview": "多模态医学 AI 辅助诊疗流程架构",
+      "resolvedFontSize": 44,
+      "resolvedTextStyle": {
+        "fontSize": 44,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "多模态医学 AI 辅助诊疗流程架构"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "多模态医学 AI 辅助诊疗流程架构",
+          "runs": [
+            {
+              "index": 1,
+              "text": "多模态医学 AI 辅助诊疗流程架构",
+              "fontSize": 44,
+              "color": "#06166D",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 66,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ap4r65wj",
+      "id": "66",
+      "name": "subtitle",
+      "bbox": [
+        500,
+        80,
+        680,
+        28
+      ],
+      "geometry": "rect",
+      "text": "面向智能诊断、风险评估与临床决策支持的多源信息融合流程",
+      "textPreview": "面向智能诊断、风险评估与临床决策支持的多源信息融合流程",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "面向智能诊断、风险评估与临床决策支持的多源信息融合流程"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "面向智能诊断、风险评估与临床决策支持的多源信息融合流程",
+          "runs": [
+            {
+              "index": 1,
+              "text": "面向智能诊断、风险评估与临床决策支持的多源信息融合流程",
+              "fontSize": 22,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 67,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/za1gvy90",
+      "id": "67",
+      "name": "subtitle-rule-left",
+      "bbox": [
+        360,
+        96,
+        130,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#0647B3",
+      "lineColor": "#0647B3",
+      "lineWidth": 0
+    },
+    {
+      "order": 68,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sji5snel",
+      "id": "68",
+      "name": "subtitle-rule-right",
+      "bbox": [
+        1184,
+        96,
+        130,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#0647B3",
+      "lineColor": "#0647B3",
+      "lineWidth": 0
+    },
+    {
+      "order": 69,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4byhgn2",
+      "id": "69",
+      "name": "outer-input",
+      "bbox": [
+        27,
+        105,
+        1618,
+        229
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#DDEEFF",
+      "lineColor": "#79AFFF",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 70,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/byhgn29g",
+      "id": "70",
+      "name": "outer-model",
+      "bbox": [
+        27,
+        360,
+        1618,
+        282
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#EEF9FF",
+      "lineColor": "#57A7FF",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 71,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/idonyd0z",
+      "id": "71",
+      "name": "outer-output",
+      "bbox": [
+        27,
+        667,
+        1618,
+        245
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#DDF5E9",
+      "lineColor": "#44C7A0",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 72,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t47y1kre",
+      "id": "72",
+      "name": "card-ct",
+      "bbox": [
+        257,
+        121,
+        293,
+        205
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FBFEFF",
+      "lineColor": "#96BFFF",
+      "lineWidth": 1
+    },
+    {
+      "order": 73,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0je9cvix",
+      "id": "73",
+      "name": "card-pathology",
+      "bbox": [
+        560,
+        121,
+        297,
+        205
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FBFEFF",
+      "lineColor": "#96BFFF",
+      "lineWidth": 1
+    },
+    {
+      "order": 74,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b6xkf6dc",
+      "id": "74",
+      "name": "card-emr",
+      "bbox": [
+        869,
+        121,
+        356,
+        205
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FBFEFF",
+      "lineColor": "#96BFFF",
+      "lineWidth": 1
+    },
+    {
+      "order": 75,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/il0rqd4v",
+      "id": "75",
+      "name": "card-lab",
+      "bbox": [
+        1237,
+        121,
+        386,
+        205
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FBFEFF",
+      "lineColor": "#96BFFF",
+      "lineWidth": 1
+    },
+    {
+      "order": 76,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tcj6tova",
+      "id": "76",
+      "name": "card-kg",
+      "bbox": [
+        242,
+        371,
+        243,
+        262
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FBFEFF",
+      "lineColor": "#39A3FF",
+      "lineWidth": 1.4
+    },
+    {
+      "order": 77,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0rqd4vmt",
+      "id": "77",
+      "name": "card-encoder",
+      "bbox": [
+        527,
+        371,
+        355,
+        262
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FBFEFF",
+      "lineColor": "#39A3FF",
+      "lineWidth": 1.4
+    },
+    {
+      "order": 78,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bi9s36hc",
+      "id": "78",
+      "name": "card-risk",
+      "bbox": [
+        925,
+        371,
+        367,
+        262
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FBFEFF",
+      "lineColor": "#39A3FF",
+      "lineWidth": 1.4
+    },
+    {
+      "order": 79,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ixczed8v",
+      "id": "79",
+      "name": "card-explain",
+      "bbox": [
+        1335,
+        371,
+        298,
+        262
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FBFEFF",
+      "lineColor": "#39A3FF",
+      "lineWidth": 1.4
+    },
+    {
+      "order": 80,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2t83itgf",
+      "id": "80",
+      "name": "card-diagnosis",
+      "bbox": [
+        226,
+        678,
+        266,
+        223
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FBFEFF",
+      "lineColor": "#59C99D",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 81,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/re1w7mp0",
+      "id": "81",
+      "name": "card-followup",
+      "bbox": [
+        504,
+        678,
+        331,
+        223
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FBFEFF",
+      "lineColor": "#59C99D",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 82,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kzupwb2h",
+      "id": "82",
+      "name": "card-workstation",
+      "bbox": [
+        847,
+        678,
+        370,
+        223
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FBFEFF",
+      "lineColor": "#59C99D",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 83,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9knih4by",
+      "id": "83",
+      "name": "card-quality",
+      "bbox": [
+        1220,
+        678,
+        410,
+        223
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FBFEFF",
+      "lineColor": "#59C99D",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 84,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/25kb6xkf",
+      "id": "84",
+      "name": "layer-input",
+      "bbox": [
+        47,
+        119,
+        170,
+        40
+      ],
+      "geometry": "rect",
+      "text": "数据输入层",
+      "textPreview": "数据输入层",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "fontSize": 30,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "数据输入层"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "数据输入层",
+          "runs": [
+            {
+              "index": 1,
+              "text": "数据输入层",
+              "fontSize": 30,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 85,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rqd4vmtw",
+      "id": "85",
+      "name": "layer-model",
+      "bbox": [
+        45,
+        374,
+        170,
+        40
+      ],
+      "geometry": "rect",
+      "text": "模型分析层",
+      "textPreview": "模型分析层",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "fontSize": 30,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "模型分析层"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "模型分析层",
+          "runs": [
+            {
+              "index": 1,
+              "text": "模型分析层",
+              "fontSize": 30,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 86,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kb6xkf6d",
+      "id": "86",
+      "name": "layer-output",
+      "bbox": [
+        42,
+        679,
+        170,
+        40
+      ],
+      "geometry": "rect",
+      "text": "临床输出层",
+      "textPreview": "临床输出层",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "fontSize": 30,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "临床输出层"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "临床输出层",
+          "runs": [
+            {
+              "index": 1,
+              "text": "临床输出层",
+              "fontSize": 30,
+              "color": "#007B65",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 87,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/i9s36hcr",
+      "id": "87",
+      "bbox": [
+        42,
+        174,
+        176,
+        128
+      ],
+      "alt": "database_orbit",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "ef23bfd5-1114-4c99-9782-d02942203f4e",
+        "contentType": "image/png",
+        "byteLength": 79562
+      }
+    },
+    {
+      "order": 88,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/t47y1kre",
+      "id": "88",
+      "bbox": [
+        300,
+        124,
+        50,
+        44
+      ],
+      "alt": "icon_ct_magnifier",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "93caf283-ea4a-4165-afe0-270c063e4948",
+        "contentType": "image/png",
+        "byteLength": 65908
+      }
+    },
+    {
+      "order": 89,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/0je9cvix",
+      "id": "89",
+      "bbox": [
+        275,
+        170,
+        260,
+        120
+      ],
+      "alt": "ct_scan_screen",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "c31bfa15-59cf-4e5d-9c79-303243d53832",
+        "contentType": "image/png",
+        "byteLength": 91935
+      }
+    },
+    {
+      "order": 90,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ahoza1gv",
+      "id": "90",
+      "bbox": [
+        608,
+        122,
+        46,
+        48
+      ],
+      "alt": "icon_microscope_header",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "7c870a18-643b-454f-899c-acf4571dafeb",
+        "contentType": "image/png",
+        "byteLength": 51236
+      }
+    },
+    {
+      "order": 91,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/32lszqtc",
+      "id": "91",
+      "bbox": [
+        579,
+        169,
+        262,
+        122
+      ],
+      "alt": "pathology_slide",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "2e98aa3d-0bd6-4e79-9fd0-be9592b3a783",
+        "contentType": "image/png",
+        "byteLength": 119025
+      }
+    },
+    {
+      "order": 92,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/sneloj2t",
+      "id": "92",
+      "bbox": [
+        939,
+        122,
+        48,
+        48
+      ],
+      "alt": "icon_emr_clipboard",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "84fd0ee5-7515-4d00-9dbb-b3b6f4b0ac5a",
+        "contentType": "image/png",
+        "byteLength": 43539
+      }
+    },
+    {
+      "order": 93,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/l87ed8ba",
+      "id": "93",
+      "bbox": [
+        888,
+        168,
+        318,
+        124
+      ],
+      "alt": "emr_panel",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "39147d21-d368-4596-a87f-a27668993672",
+        "contentType": "image/png",
+        "byteLength": 47202
+      }
+    },
+    {
+      "order": 94,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/at47y1kr",
+      "id": "94",
+      "bbox": [
+        1300,
+        122,
+        52,
+        48
+      ],
+      "alt": "icon_lab_flask_green",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "037032d1-9e24-426b-b547-683bc6571a7d",
+        "contentType": "image/png",
+        "byteLength": 43972
+      }
+    },
+    {
+      "order": 95,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/3ex0nuxc",
+      "id": "95",
+      "bbox": [
+        1252,
+        168,
+        356,
+        125
+      ],
+      "alt": "lab_panel",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "acc0f5c0-255f-4d3e-8d63-ee9229b4341f",
+        "contentType": "image/png",
+        "byteLength": 58680
+      }
+    },
+    {
+      "order": 96,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/szqtcj6t",
+      "id": "96",
+      "bbox": [
+        52,
+        438,
+        170,
+        150
+      ],
+      "alt": "brain_network",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "cc72e31f-d678-4c07-92d8-0bb8c41cdebc",
+        "contentType": "image/png",
+        "byteLength": 91260
+      }
+    },
+    {
+      "order": 97,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/lkjm1cfa",
+      "id": "97",
+      "bbox": [
+        252,
+        397,
+        232,
+        184
+      ],
+      "alt": "knowledge_graph",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "192ad248-784e-4595-ac2b-c6fd46b425f7",
+        "contentType": "image/png",
+        "byteLength": 92623
+      }
+    },
+    {
+      "order": 98,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ex0nuxc3",
+      "id": "98",
+      "bbox": [
+        536,
+        407,
+        332,
+        150
+      ],
+      "alt": "encoder_cube",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "26c27088-24e9-4c59-99e0-580bc78f8341",
+        "contentType": "image/png",
+        "byteLength": 98563
+      }
+    },
+    {
+      "order": 99,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/3itgfmlk",
+      "id": "99",
+      "bbox": [
+        548,
+        565,
+        43,
+        43
+      ],
+      "alt": "icon_cube_feature",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "3e2bf447-543f-4bfa-afa7-6bb07f349eb1",
+        "contentType": "image/png",
+        "byteLength": 50515
+      }
+    },
+    {
+      "order": 100,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/g7adsji5",
+      "id": "100",
+      "bbox": [
+        625,
+        565,
+        43,
+        43
+      ],
+      "alt": "icon_microscope_feature",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "34b6b224-cbf7-42a9-9176-771fe8da02ef",
+        "contentType": "image/png",
+        "byteLength": 44348
+      }
+    },
+    {
+      "order": 101,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/9s36hcrm",
+      "id": "101",
+      "bbox": [
+        700,
+        565,
+        43,
+        43
+      ],
+      "alt": "icon_document_feature",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "16cf96b8-2c85-419f-b6f0-c3f6b641eb07",
+        "contentType": "image/png",
+        "byteLength": 32394
+      }
+    },
+    {
+      "order": 102,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/y1kre1w7",
+      "id": "102",
+      "bbox": [
+        774,
+        565,
+        43,
+        43
+      ],
+      "alt": "icon_flask_feature",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "13db1a4c-7ae2-4edc-ba0f-e227735dbc45",
+        "contentType": "image/png",
+        "byteLength": 43972
+      }
+    },
+    {
+      "order": 103,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/rmhk3q5o",
+      "id": "103",
+      "bbox": [
+        946,
+        412,
+        186,
+        125
+      ],
+      "alt": "risk_gauge",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "9be2d5c7-0b72-4c6c-9dea-c8280f6ee192",
+        "contentType": "image/png",
+        "byteLength": 41583
+      }
+    },
+    {
+      "order": 104,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/gfmlkjm1",
+      "id": "104",
+      "bbox": [
+        944,
+        516,
+        170,
+        106
+      ],
+      "alt": "roc_curve",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "cc8dd8df-3af9-4e11-b67c-88b01ccba2c1",
+        "contentType": "image/png",
+        "byteLength": 37370
+      }
+    },
+    {
+      "order": 105,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/90je9cvi",
+      "id": "105",
+      "bbox": [
+        1127,
+        554,
+        132,
+        38
+      ],
+      "alt": "risk_scale",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "fa570bb0-5d80-46a2-a47f-893940db9bc3",
+        "contentType": "image/png",
+        "byteLength": 14185
+      }
+    },
+    {
+      "order": 106,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/yd0z6103",
+      "id": "106",
+      "bbox": [
+        1365,
+        421,
+        180,
+        84
+      ],
+      "alt": "explainability_heatmap",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "cd552bd2-cf14-4543-9dfc-d7ca1fa73184",
+        "contentType": "image/png",
+        "byteLength": 79909
+      }
+    },
+    {
+      "order": 107,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/rytsvu9k",
+      "id": "107",
+      "bbox": [
+        1362,
+        536,
+        212,
+        85
+      ],
+      "alt": "feature_bars",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "8fe9c2b6-87eb-42f2-9f3b-5dbaf114b9ed",
+        "contentType": "image/png",
+        "byteLength": 31330
+      }
+    },
+    {
+      "order": 108,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/gr2p8nqx",
+      "id": "108",
+      "bbox": [
+        56,
+        739,
+        150,
+        132
+      ],
+      "alt": "medical_cross",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "2763a659-7051-4a9e-b013-542ff002bdc5",
+        "contentType": "image/png",
+        "byteLength": 64946
+      }
+    },
+    {
+      "order": 109,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/9cvixcze",
+      "id": "109",
+      "bbox": [
+        254,
+        682,
+        38,
+        38
+      ],
+      "alt": "icon_diagnosis_clipboard",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "1399038e-705f-4362-aed1-ee55a4c08d55",
+        "contentType": "image/png",
+        "byteLength": 42636
+      }
+    },
+    {
+      "order": 110,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/vahoza1g",
+      "id": "110",
+      "bbox": [
+        237,
+        720,
+        244,
+        168
+      ],
+      "alt": "diagnosis_panel",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "c593043b-387b-4994-9761-1acfa77af4eb",
+        "contentType": "image/png",
+        "byteLength": 37226
+      }
+    },
+    {
+      "order": 111,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/6tovahoz",
+      "id": "111",
+      "bbox": [
+        566,
+        682,
+        42,
+        38
+      ],
+      "alt": "icon_calendar",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "8479d932-6132-400a-8b6f-0d20b82fb669",
+        "contentType": "image/png",
+        "byteLength": 44225
+      }
+    },
+    {
+      "order": 112,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/dg7adsji",
+      "id": "112",
+      "bbox": [
+        504,
+        722,
+        332,
+        150
+      ],
+      "alt": "followup_panel",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "b414d628-ce43-480c-b6e7-24618675d18d",
+        "contentType": "image/png",
+        "byteLength": 32080
+      }
+    },
+    {
+      "order": 113,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ovahoza1",
+      "id": "113",
+      "bbox": [
+        897,
+        682,
+        50,
+        38
+      ],
+      "alt": "icon_workstation_monitor",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "01cad34a-a21d-4dfc-a860-d9b72120b0d7",
+        "contentType": "image/png",
+        "byteLength": 47756
+      }
+    },
+    {
+      "order": 114,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/z25kb6xk",
+      "id": "114",
+      "bbox": [
+        862,
+        710,
+        350,
+        178
+      ],
+      "alt": "doctor_workstation",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "170617ff-4c26-4d1c-b826-1c77b0b176ee",
+        "contentType": "image/png",
+        "byteLength": 66388
+      }
+    },
+    {
+      "order": 115,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/6hcrmhk3",
+      "id": "115",
+      "bbox": [
+        1265,
+        682,
+        44,
+        42
+      ],
+      "alt": "icon_quality_shield",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "81143280-4600-41cf-8463-34bf0addd702",
+        "contentType": "image/png",
+        "byteLength": 53706
+      }
+    },
+    {
+      "order": 116,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/d8v6psfi",
+      "id": "116",
+      "bbox": [
+        1240,
+        718,
+        370,
+        170
+      ],
+      "alt": "quality_panel",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "73c11710-2f10-4eea-9ab9-765145e5c405",
+        "contentType": "image/png",
+        "byteLength": 42831
+      }
+    },
+    {
+      "order": 117,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/donyd0z6",
+      "id": "117",
+      "name": "ct-title",
+      "bbox": [
+        374,
+        135,
+        110,
+        24
+      ],
+      "geometry": "rect",
+      "text": "CT 影像",
+      "textPreview": "CT 影像",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CT 影像"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CT 影像",
+          "runs": [
+            {
+              "index": 1,
+              "text": "CT 影像",
+              "fontSize": 21,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 118,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/29gr2p8n",
+      "id": "118",
+      "name": "path-title",
+      "bbox": [
+        676,
+        135,
+        130,
+        24
+      ],
+      "geometry": "rect",
+      "text": "病理切片",
+      "textPreview": "病理切片",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "病理切片"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "病理切片",
+          "runs": [
+            {
+              "index": 1,
+              "text": "病理切片",
+              "fontSize": 21,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 119,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vu9knih4",
+      "id": "119",
+      "name": "emr-title",
+      "bbox": [
+        997,
+        135,
+        150,
+        24
+      ],
+      "geometry": "rect",
+      "text": "电子病历",
+      "textPreview": "电子病历",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "电子病历"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "电子病历",
+          "runs": [
+            {
+              "index": 1,
+              "text": "电子病历",
+              "fontSize": 21,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 120,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/judg7ads",
+      "id": "120",
+      "name": "lab-title",
+      "bbox": [
+        1360,
+        135,
+        150,
+        24
+      ],
+      "geometry": "rect",
+      "text": "检验指标",
+      "textPreview": "检验指标",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "检验指标"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "检验指标",
+          "runs": [
+            {
+              "index": 1,
+              "text": "检验指标",
+              "fontSize": 21,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 121,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u9knih4b",
+      "id": "121",
+      "name": "ct-caption",
+      "bbox": [
+        358,
+        300,
+        100,
+        22
+      ],
+      "geometry": "rect",
+      "text": "影像数据",
+      "textPreview": "影像数据",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "影像数据"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "影像数据",
+          "runs": [
+            {
+              "index": 1,
+              "text": "影像数据",
+              "fontSize": 15,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 122,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1032lszq",
+      "id": "122",
+      "name": "path-caption",
+      "bbox": [
+        662,
+        300,
+        130,
+        22
+      ],
+      "geometry": "rect",
+      "text": "组织学信息",
+      "textPreview": "组织学信息",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "组织学信息"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "组织学信息",
+          "runs": [
+            {
+              "index": 1,
+              "text": "组织学信息",
+              "fontSize": 15,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 123,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cfa9w3m9",
+      "id": "123",
+      "name": "emr-caption",
+      "bbox": [
+        958,
+        300,
+        220,
+        22
+      ],
+      "geometry": "rect",
+      "text": "结构化/非结构化文本",
+      "textPreview": "结构化/非结构化文本",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "结构化/非结构化文本"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "结构化/非结构化文本",
+          "runs": [
+            {
+              "index": 1,
+              "text": "结构化/非结构化文本",
+              "fontSize": 15,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 124,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jm1cfa9w",
+      "id": "124",
+      "name": "lab-caption",
+      "bbox": [
+        1365,
+        300,
+        140,
+        22
+      ],
+      "geometry": "rect",
+      "text": "实验室指标",
+      "textPreview": "实验室指标",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "实验室指标"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "实验室指标",
+          "runs": [
+            {
+              "index": 1,
+              "text": "实验室指标",
+              "fontSize": 15,
+              "color": "#22945C",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 125,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u18jqh0f",
+      "id": "125",
+      "name": "kg-title",
+      "bbox": [
+        327,
+        385,
+        84,
+        24
+      ],
+      "geometry": "rect",
+      "text": "知识图谱",
+      "textPreview": "知识图谱",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "知识图谱"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "知识图谱",
+          "runs": [
+            {
+              "index": 1,
+              "text": "知识图谱",
+              "fontSize": 18,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 126,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1orytsvu",
+      "id": "126",
+      "name": "kg-label-disease",
+      "bbox": [
+        260,
+        442,
+        40,
+        16
+      ],
+      "geometry": "rect",
+      "text": "疾病",
+      "textPreview": "疾病",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "疾病"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "疾病",
+          "runs": [
+            {
+              "index": 1,
+              "text": "疾病",
+              "fontSize": 11,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 127,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c7u54zid",
+      "id": "127",
+      "name": "kg-label-drug",
+      "bbox": [
+        433,
+        442,
+        40,
+        16
+      ],
+      "geometry": "rect",
+      "text": "药物",
+      "textPreview": "药物",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "药物"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "药物",
+          "runs": [
+            {
+              "index": 1,
+              "text": "药物",
+              "fontSize": 11,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 128,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nap4r65w",
+      "id": "128",
+      "name": "kg-label-check",
+      "bbox": [
+        402,
+        414,
+        40,
+        16
+      ],
+      "geometry": "rect",
+      "text": "检查",
+      "textPreview": "检查",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "检查"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "检查",
+          "runs": [
+            {
+              "index": 1,
+              "text": "检查",
+              "fontSize": 11,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 129,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/upwb2hwf",
+      "id": "129",
+      "name": "kg-label-symptom",
+      "bbox": [
+        340,
+        416,
+        40,
+        16
+      ],
+      "geometry": "rect",
+      "text": "症状",
+      "textPreview": "症状",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "症状"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "症状",
+          "runs": [
+            {
+              "index": 1,
+              "text": "症状",
+              "fontSize": 11,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 130,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4r65wjud",
+      "id": "130",
+      "name": "kg-label-treatment",
+      "bbox": [
+        350,
+        588,
+        40,
+        16
+      ],
+      "geometry": "rect",
+      "text": "治疗",
+      "textPreview": "治疗",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "治疗"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "治疗",
+          "runs": [
+            {
+              "index": 1,
+              "text": "治疗",
+              "fontSize": 11,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 131,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xc3ylc7u",
+      "id": "131",
+      "name": "kg-label-lab",
+      "bbox": [
+        423,
+        548,
+        50,
+        16
+      ],
+      "geometry": "rect",
+      "text": "实验室",
+      "textPreview": "实验室",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "实验室"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "实验室",
+          "runs": [
+            {
+              "index": 1,
+              "text": "实验室",
+              "fontSize": 11,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 132,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mlkjm1cf",
+      "id": "132",
+      "name": "encoder-title",
+      "bbox": [
+        634,
+        382,
+        145,
+        28
+      ],
+      "geometry": "rect",
+      "text": "多模态编码器",
+      "textPreview": "多模态编码器",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "多模态编码器"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "多模态编码器",
+          "runs": [
+            {
+              "index": 1,
+              "text": "多模态编码器",
+              "fontSize": 22,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 133,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f6dcbulw",
+      "id": "133",
+      "name": "encoder-feature-labels",
+      "bbox": [
+        548,
+        610,
+        276,
+        18
+      ],
+      "geometry": "rect",
+      "text": "影像特征          病理特征          文本特征          检验特征",
+      "textPreview": "影像特征          病理特征          文本特征          检验特征",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "影像特征          病理特征          文本特征          检验特征"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "影像特征          病理特征          文本特征          检验特征",
+          "runs": [
+            {
+              "index": 1,
+              "text": "影像特征          病理特征          文本特征          检验特征",
+              "fontSize": 12,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 134,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4zidonyd",
+      "id": "134",
+      "name": "encoder-more",
+      "bbox": [
+        846,
+        578,
+        28,
+        22
+      ],
+      "geometry": "rect",
+      "text": "...",
+      "textPreview": "...",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "..."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "...",
+          "runs": [
+            {
+              "index": 1,
+              "text": "...",
+              "fontSize": 18,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 135,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xkf6dcbu",
+      "id": "135",
+      "name": "risk-title",
+      "bbox": [
+        1038,
+        382,
+        100,
+        24
+      ],
+      "geometry": "rect",
+      "text": "风险预测",
+      "textPreview": "风险预测",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "风险预测"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "风险预测",
+          "runs": [
+            {
+              "index": 1,
+              "text": "风险预测",
+              "fontSize": 19,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 136,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mtwra5gb",
+      "id": "136",
+      "name": "risk-score",
+      "bbox": [
+        993,
+        488,
+        90,
+        48
+      ],
+      "geometry": "rect",
+      "text": "中高风险\n0.72",
+      "textPreview": "中高风险 | 0.72",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "中高风险"
+          },
+          {
+            "index": 2,
+            "text": "0.72"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "中高风险",
+          "runs": [
+            {
+              "index": 1,
+              "text": "中高风险",
+              "fontSize": 18,
+              "color": "#06166D",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "0.72",
+          "runs": [
+            {
+              "index": 1,
+              "text": "0.72",
+              "fontSize": 18,
+              "color": "#06166D",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 137,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fepkzupw",
+      "id": "137",
+      "name": "risk-levels",
+      "bbox": [
+        1118,
+        413,
+        145,
+        92
+      ],
+      "geometry": "rect",
+      "text": "风险分层\n低风险     < 0.30\n中风险     0.30-0.60\n高风险     > 0.60",
+      "textPreview": "风险分层 | 低风险     < 0.30 | 中风险     0.30-0.60 | 高风险     > 0.60",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "风险分层"
+          },
+          {
+            "index": 2,
+            "text": "低风险     < 0.30"
+          },
+          {
+            "index": 3,
+            "text": "中风险     0.30-0.60"
+          },
+          {
+            "index": 4,
+            "text": "高风险     > 0.60"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "风险分层",
+          "runs": [
+            {
+              "index": 1,
+              "text": "风险分层",
+              "fontSize": 13,
+              "color": "#11835F",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "低风险     < 0.30",
+          "runs": [
+            {
+              "index": 1,
+              "text": "低风险     < 0.30",
+              "fontSize": 13,
+              "color": "#11835F",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "中风险     0.30-0.60",
+          "runs": [
+            {
+              "index": 1,
+              "text": "中风险     0.30-0.60",
+              "fontSize": 13,
+              "color": "#11835F",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "text": "高风险     > 0.60",
+          "runs": [
+            {
+              "index": 1,
+              "text": "高风险     > 0.60",
+              "fontSize": 13,
+              "color": "#11835F",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 138,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/83itgfml",
+      "id": "138",
+      "name": "roc-title",
+      "bbox": [
+        981,
+        530,
+        105,
+        18
+      ],
+      "geometry": "rect",
+      "text": "ROC 曲线（示例）",
+      "textPreview": "ROC 曲线（示例）",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ROC 曲线（示例）"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ROC 曲线（示例）",
+          "runs": [
+            {
+              "index": 1,
+              "text": "ROC 曲线（示例）",
+              "fontSize": 12,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 139,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xobm58z2",
+      "id": "139",
+      "name": "risk-alarm-title",
+      "bbox": [
+        1168,
+        528,
+        90,
+        18
+      ],
+      "geometry": "rect",
+      "text": "风险报警条",
+      "textPreview": "风险报警条",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "风险报警条"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "风险报警条",
+          "runs": [
+            {
+              "index": 1,
+              "text": "风险报警条",
+              "fontSize": 12,
+              "color": "#11835F",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 140,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0bi9s36",
+      "id": "140",
+      "name": "risk-alarm-score",
+      "bbox": [
+        1215,
+        548,
+        42,
+        22
+      ],
+      "geometry": "rect",
+      "text": "0.72",
+      "textPreview": "0.72",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "0.72"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "0.72",
+          "runs": [
+            {
+              "index": 1,
+              "text": "0.72",
+              "fontSize": 16,
+              "color": "#E31B1B",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 141,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0fepkzup",
+      "id": "141",
+      "name": "explain-title",
+      "bbox": [
+        1416,
+        382,
+        140,
+        24
+      ],
+      "geometry": "rect",
+      "text": "可解释性模块",
+      "textPreview": "可解释性模块",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "可解释性模块"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "可解释性模块",
+          "runs": [
+            {
+              "index": 1,
+              "text": "可解释性模块",
+              "fontSize": 18,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 142,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bulwval8",
+      "id": "142",
+      "name": "explain-heat-caption",
+      "bbox": [
+        1392,
+        397,
+        150,
+        18
+      ],
+      "geometry": "rect",
+      "text": "注意力热力图（示例）",
+      "textPreview": "注意力热力图（示例）",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "注意力热力图（示例）"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "注意力热力图（示例）",
+          "runs": [
+            {
+              "index": 1,
+              "text": "注意力热力图（示例）",
+              "fontSize": 11,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 143,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i9s36hcr",
+      "id": "143",
+      "name": "explain-bars-caption",
+      "bbox": [
+        1398,
+        516,
+        150,
+        18
+      ],
+      "geometry": "rect",
+      "text": "特征贡献度（示例）",
+      "textPreview": "特征贡献度（示例）",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "特征贡献度（示例）"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "特征贡献度（示例）",
+          "runs": [
+            {
+              "index": 1,
+              "text": "特征贡献度（示例）",
+              "fontSize": 11,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 144,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tovahoza",
+      "id": "144",
+      "name": "explain-bar-labels",
+      "bbox": [
+        1368,
+        544,
+        58,
+        72
+      ],
+      "geometry": "rect",
+      "text": "病理特征\n影像特征\n检验特征\n文本特征\n其他",
+      "textPreview": "病理特征 | 影像特征 | 检验特征 | 文本特征 | 其他",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "fontSize": 10,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "病理特征"
+          },
+          {
+            "index": 2,
+            "text": "影像特征"
+          },
+          {
+            "index": 3,
+            "text": "检验特征"
+          },
+          {
+            "index": 4,
+            "text": "文本特征"
+          },
+          {
+            "index": 5,
+            "text": "其他"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "病理特征",
+          "runs": [
+            {
+              "index": 1,
+              "text": "病理特征",
+              "fontSize": 10,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "影像特征",
+          "runs": [
+            {
+              "index": 1,
+              "text": "影像特征",
+              "fontSize": 10,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "检验特征",
+          "runs": [
+            {
+              "index": 1,
+              "text": "检验特征",
+              "fontSize": 10,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "text": "文本特征",
+          "runs": [
+            {
+              "index": 1,
+              "text": "文本特征",
+              "fontSize": 10,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "text": "其他",
+          "runs": [
+            {
+              "index": 1,
+              "text": "其他",
+              "fontSize": 10,
+              "color": "#0647B3",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 145,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/032lszqt",
+      "id": "145",
+      "name": "diagnosis-title",
+      "bbox": [
+        324,
+        690,
+        110,
+        24
+      ],
+      "geometry": "rect",
+      "text": "诊断建议",
+      "textPreview": "诊断建议",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "诊断建议"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "诊断建议",
+          "runs": [
+            {
+              "index": 1,
+              "text": "诊断建议",
+              "fontSize": 20,
+              "color": "#007B65",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 146,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bi9s36hc",
+      "id": "146",
+      "name": "diagnosis-body",
+      "bbox": [
+        284,
+        735,
+        154,
+        88
+      ],
+      "geometry": "rect",
+      "text": "综合分析结论（示例）\n✓ 倾向：肺腺癌\n✓ 分期：T2aN1M0 IIA期\n✓ 基因检测：EGFR/ALK",
+      "textPreview": "综合分析结论（示例） | ✓ 倾向：肺腺癌 | ✓ 分期：T2aN1M0 IIA期 | ✓ 基因检测：EGFR/ALK",
+      "resolvedFontSize": 9.51,
+      "resolvedTextStyle": {
+        "fontSize": 9.51,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "综合分析结论（示例）"
+          },
+          {
+            "index": 2,
+            "text": "✓ 倾向：肺腺癌"
+          },
+          {
+            "index": 3,
+            "text": "✓ 分期：T2aN1M0 IIA期"
+          },
+          {
+            "index": 4,
+            "text": "✓ 基因检测：EGFR/ALK"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "综合分析结论（示例）",
+          "runs": [
+            {
+              "index": 1,
+              "text": "综合分析结论（示例）",
+              "fontSize": 9.51,
+              "color": "#005A69",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "✓ 倾向：肺腺癌",
+          "runs": [
+            {
+              "index": 1,
+              "text": "✓ 倾向：肺腺癌",
+              "fontSize": 9.51,
+              "color": "#005A69",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "✓ 分期：T2aN1M0 IIA期",
+          "runs": [
+            {
+              "index": 1,
+              "text": "✓ 分期：T2aN1M0 IIA期",
+              "fontSize": 9.51,
+              "color": "#005A69",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "text": "✓ 基因检测：EGFR/ALK",
+          "runs": [
+            {
+              "index": 1,
+              "text": "✓ 基因检测：EGFR/ALK",
+              "fontSize": 9.51,
+              "color": "#005A69",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 147,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ixczed8v",
+      "id": "147",
+      "name": "followup-title",
+      "bbox": [
+        652,
+        690,
+        110,
+        24
+      ],
+      "geometry": "rect",
+      "text": "随访计划",
+      "textPreview": "随访计划",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "随访计划"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "随访计划",
+          "runs": [
+            {
+              "index": 1,
+              "text": "随访计划",
+              "fontSize": 20,
+              "color": "#007B65",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 148,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tcj6tova",
+      "id": "148",
+      "name": "followup-timeline",
+      "bbox": [
+        526,
+        728,
+        280,
+        37
+      ],
+      "geometry": "rect",
+      "text": "基线\n(当前)        1个月        3个月        6个月        12个月",
+      "textPreview": "基线 | (当前)        1个月        3个月        6个月        12个月",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "基线"
+          },
+          {
+            "index": 2,
+            "text": "(当前)        1个月        3个月        6个月        12个月"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "基线",
+          "runs": [
+            {
+              "index": 1,
+              "text": "基线",
+              "fontSize": 12,
+              "color": "#005A69",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "(当前)        1个月        3个月        6个月        12个月",
+          "runs": [
+            {
+              "index": 1,
+              "text": "(当前)        1个月        3个月        6个月        12个月",
+              "fontSize": 12,
+              "color": "#005A69",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 149,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0rqd4vmt",
+      "id": "149",
+      "name": "followup-items",
+      "bbox": [
+        527,
+        805,
+        285,
+        58
+      ],
+      "geometry": "rect",
+      "text": "随访内容\n影像复查        实验室检查        症状评估        治疗评估\n(胸部CT)        (肿瘤标志物)      (问卷)          (疗效)",
+      "textPreview": "随访内容 | 影像复查        实验室检查        症状评估        治疗评估 | (胸部CT)        (肿瘤标志物)      (问卷)          (疗效)",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "fontSize": 10,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "随访内容"
+          },
+          {
+            "index": 2,
+            "text": "影像复查        实验室检查        症状评估        治疗评估"
+          },
+          {
+            "index": 3,
+            "text": "(胸部CT)        (肿瘤标志物)      (问卷)          (疗效)"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "随访内容",
+          "runs": [
+            {
+              "index": 1,
+              "text": "随访内容",
+              "fontSize": 10,
+              "color": "#005A69",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "影像复查        实验室检查        症状评估        治疗评估",
+          "runs": [
+            {
+              "index": 1,
+              "text": "影像复查        实验室检查        症状评估        治疗评估",
+              "fontSize": 10,
+              "color": "#005A69",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "(胸部CT)        (肿瘤标志物)      (问卷)          (疗效)",
+          "runs": [
+            {
+              "index": 1,
+              "text": "(胸部CT)        (肿瘤标志物)      (问卷)          (疗效)",
+              "fontSize": 10,
+              "color": "#005A69",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 150,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/at47y1kr",
+      "id": "150",
+      "name": "workstation-title",
+      "bbox": [
+        986,
+        690,
+        125,
+        24
+      ],
+      "geometry": "rect",
+      "text": "医生工作站",
+      "textPreview": "医生工作站",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "医生工作站"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "医生工作站",
+          "runs": [
+            {
+              "index": 1,
+              "text": "医生工作站",
+              "fontSize": 20,
+              "color": "#007B65",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 151,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ex0nuxc",
+      "id": "151",
+      "name": "quality-title",
+      "bbox": [
+        1375,
+        690,
+        110,
+        24
+      ],
+      "geometry": "rect",
+      "text": "质量评估",
+      "textPreview": "质量评估",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "质量评估"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "质量评估",
+          "runs": [
+            {
+              "index": 1,
+              "text": "质量评估",
+              "fontSize": 20,
+              "color": "#007B65",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 152,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/szqtcj6t",
+      "id": "152",
+      "name": "quality-labels",
+      "bbox": [
+        1240,
+        724,
+        130,
+        135
+      ],
+      "geometry": "rect",
+      "text": "模型性能（示例）\n准确率\n0.88\nF1 值\n0.87\n精确率\n0.87\n召回率\n0.85\n特异度\n0.89",
+      "textPreview": "模型性能（示例） | 准确率 | 0.88 | F1 值 | 0.87 | 精确率 | 0.87 | 召回率 | 0.85 | 特异度 | 0.89",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 11,
+        "lines": [
+          {
+            "index": 1,
+            "text": "模型性能（示例）"
+          },
+          {
+            "index": 2,
+            "text": "准确率"
+          },
+          {
+            "index": 3,
+            "text": "0.88"
+          },
+          {
+            "index": 4,
+            "text": "F1 值"
+          },
+          {
+            "index": 5,
+            "text": "0.87"
+          },
+          {
+            "index": 6,
+            "text": "精确率"
+          },
+          {
+            "index": 7,
+            "text": "0.87"
+          },
+          {
+            "index": 8,
+            "text": "召回率"
+          },
+          {
+            "index": 9,
+            "text": "0.85"
+          },
+          {
+            "index": 10,
+            "text": "特异度"
+          },
+          {
+            "index": 11,
+            "text": "0.89"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "模型性能（示例）",
+          "runs": [
+            {
+              "index": 1,
+              "text": "模型性能（示例）",
+              "fontSize": 11,
+              "color": "#005A69",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "准确率",
+          "runs": [
+            {
+              "index": 1,
+              "text": "准确率",
+              "fontSize": 11,
+              "color": "#005A69",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "0.88",
+          "runs": [
+            {
+              "index": 1,
+              "text": "0.88",
+              "fontSize": 11,
+              "color": "#005A69",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "text": "F1 值",
+          "runs": [
+            {
+              "index": 1,
+              "text": "F1 值",
+              "fontSize": 11,
+              "color": "#005A69",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "text": "0.87",
+          "runs": [
+            {
+              "index": 1,
+              "text": "0.87",
+              "fontSize": 11,
+              "color": "#005A69",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "text": "精确率",
+          "runs": [
+            {
+              "index": 1,
+              "text": "精确率",
+              "fontSize": 11,
+              "color": "#005A69",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "text": "0.87",
+          "runs": [
+            {
+              "index": 1,
+              "text": "0.87",
+              "fontSize": 11,
+              "color": "#005A69",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "text": "召回率",
+          "runs": [
+            {
+              "index": 1,
+              "text": "召回率",
+              "fontSize": 11,
+              "color": "#005A69",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "text": "0.85",
+          "runs": [
+            {
+              "index": 1,
+              "text": "0.85",
+              "fontSize": 11,
+              "color": "#005A69",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "text": "特异度",
+          "runs": [
+            {
+              "index": 1,
+              "text": "特异度",
+              "fontSize": 11,
+              "color": "#005A69",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "text": "0.89",
+          "runs": [
+            {
+              "index": 1,
+              "text": "0.89",
+              "fontSize": 11,
+              "color": "#005A69",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 153,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lkjm1cfa",
+      "id": "153",
+      "name": "quality-line-label",
+      "bbox": [
+        1440,
+        724,
+        130,
+        18
+      ],
+      "geometry": "rect",
+      "text": "校准曲线（示例）",
+      "textPreview": "校准曲线（示例）",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "校准曲线（示例）"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "校准曲线（示例）",
+          "runs": [
+            {
+              "index": 1,
+              "text": "校准曲线（示例）",
+              "fontSize": 11,
+              "color": "#007B65",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 154,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ahoza1gv",
+      "id": "154",
+      "name": "footer",
+      "bbox": [
+        660,
+        913,
+        350,
+        24
+      ],
+      "geometry": "rect",
+      "text": "示意图（Synthetic Example）",
+      "textPreview": "示意图（Synthetic Example）",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "示意图（Synthetic Example）"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "示意图（Synthetic Example）",
+          "runs": [
+            {
+              "index": 1,
+              "text": "示意图（Synthetic Example）",
+              "fontSize": 16,
+              "color": "#0647B3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 155,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/32lszqtc",
+      "id": "155",
+      "name": "arrow-ct-down",
+      "bbox": [
+        390,
+        324,
+        27,
+        34
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#2C98EA",
+      "lineColor": "#2C98EA",
+      "lineWidth": 0
+    },
+    {
+      "order": 156,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sneloj2t",
+      "id": "156",
+      "name": "arrow-path-down",
+      "bbox": [
+        684,
+        324,
+        27,
+        34
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#2C98EA",
+      "lineColor": "#2C98EA",
+      "lineWidth": 0
+    },
+    {
+      "order": 157,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l87ed8ba",
+      "id": "157",
+      "name": "arrow-emr-down",
+      "bbox": [
+        1030,
+        324,
+        27,
+        34
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#1FB6C3",
+      "lineColor": "#1FB6C3",
+      "lineWidth": 0
+    },
+    {
+      "order": 158,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e9cvixcz",
+      "id": "158",
+      "name": "arrow-lab-down",
+      "bbox": [
+        1404,
+        324,
+        27,
+        34
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#5EBE44",
+      "lineColor": "#5EBE44",
+      "lineWidth": 0
+    },
+    {
+      "order": 159,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3q5o7qpg",
+      "id": "159",
+      "name": "arrow-kg-encoder",
+      "bbox": [
+        486,
+        482,
+        40,
+        24
+      ],
+      "geometry": "leftRightArrow",
+      "fillColor": "#2C98EA",
+      "lineColor": "#2C98EA",
+      "lineWidth": 0
+    },
+    {
+      "order": 160,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vmtwra5g",
+      "id": "160",
+      "name": "arrow-encoder-risk",
+      "bbox": [
+        884,
+        482,
+        40,
+        24
+      ],
+      "geometry": "leftRightArrow",
+      "fillColor": "#2C98EA",
+      "lineColor": "#2C98EA",
+      "lineWidth": 0
+    },
+    {
+      "order": 161,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/61032lsz",
+      "id": "161",
+      "name": "arrow-risk-explain",
+      "bbox": [
+        1294,
+        482,
+        40,
+        24
+      ],
+      "geometry": "leftRightArrow",
+      "fillColor": "#2C98EA",
+      "lineColor": "#2C98EA",
+      "lineWidth": 0
+    },
+    {
+      "order": 162,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dsji5sne",
+      "id": "162",
+      "name": "arrow-kg-output",
+      "bbox": [
+        362,
+        636,
+        26,
+        32
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#5CC184",
+      "lineColor": "#5CC184",
+      "lineWidth": 0
+    },
+    {
+      "order": 163,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o7qpg3ex",
+      "id": "163",
+      "name": "arrow-encoder-output",
+      "bbox": [
+        682,
+        636,
+        26,
+        32
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#5CC184",
+      "lineColor": "#5CC184",
+      "lineWidth": 0
+    },
+    {
+      "order": 164,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vy90je9c",
+      "id": "164",
+      "name": "arrow-risk-output",
+      "bbox": [
+        1028,
+        636,
+        26,
+        32
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#5CC184",
+      "lineColor": "#5CC184",
+      "lineWidth": 0
+    },
+    {
+      "order": 165,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6dcbulwv",
+      "id": "165",
+      "name": "arrow-explain-output",
+      "bbox": [
+        1412,
+        636,
+        26,
+        32
+      ],
+      "geometry": "downArrow",
+      "fillColor": "#5CC184",
+      "lineColor": "#5CC184",
+      "lineWidth": 0
+    },
+    {
+      "order": 166,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d4vmtwra",
+      "id": "166",
+      "name": "emr-tab-structured-bg",
+      "bbox": [
+        1056,
+        181,
+        88,
+        25
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#51C4C6",
+      "lineColor": "#FFFFFF",
+      "lineWidth": 0.4
+    },
+    {
+      "order": 167,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oj2t83it",
+      "id": "167",
+      "name": "emr-tab-structured-text",
+      "bbox": [
+        1060,
+        184,
+        80,
+        19
+      ],
+      "geometry": "rect",
+      "text": "结构化信息",
+      "textPreview": "结构化信息",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "fontSize": 10,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "结构化信息"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "结构化信息",
+          "runs": [
+            {
+              "index": 1,
+              "text": "结构化信息",
+              "fontSize": 10,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 168,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z25kb6xk",
+      "id": "168",
+      "name": "emr-tab-free-bg",
+      "bbox": [
+        1146,
+        181,
+        96,
+        25
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#69A8E8",
+      "lineColor": "#FFFFFF",
+      "lineWidth": 0.4
+    },
+    {
+      "order": 169,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6hcrmhk3",
+      "id": "169",
+      "name": "emr-tab-free-text",
+      "bbox": [
+        1150,
+        184,
+        88,
+        19
+      ],
+      "geometry": "rect",
+      "text": "非结构化文本",
+      "textPreview": "非结构化文本",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "fontSize": 10,
+        "typeface": "+mn-lt",
+        "bold": true,
+        "alignment": "center"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "非结构化文本"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "非结构化文本",
+          "runs": [
+            {
+              "index": 1,
+              "text": "非结构化文本",
+              "fontSize": 10,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

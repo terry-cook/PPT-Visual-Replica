@@ -1,0 +1,17 @@
+{
+  "background": "#00ff00",
+  "cells": [
+    { "id": "icon_ct_magnifier", "bbox": [180, 80, 260, 240] },
+    { "id": "icon_microscope_header", "bbox": [530, 70, 260, 250] },
+    { "id": "icon_emr_clipboard", "bbox": [900, 70, 260, 260] },
+    { "id": "icon_lab_flask_green", "bbox": [1250, 70, 270, 260] },
+    { "id": "icon_cube_feature", "bbox": [180, 365, 260, 230] },
+    { "id": "icon_microscope_feature", "bbox": [530, 360, 260, 240] },
+    { "id": "icon_document_feature", "bbox": [900, 360, 260, 250] },
+    { "id": "icon_flask_feature", "bbox": [1250, 360, 270, 250] },
+    { "id": "icon_diagnosis_clipboard", "bbox": [180, 640, 260, 250] },
+    { "id": "icon_calendar", "bbox": [530, 640, 260, 250] },
+    { "id": "icon_workstation_monitor", "bbox": [885, 640, 280, 250] },
+    { "id": "icon_quality_shield", "bbox": [1235, 625, 300, 280] }
+  ]
+}

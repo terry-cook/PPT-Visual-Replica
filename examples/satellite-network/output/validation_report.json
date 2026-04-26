@@ -1,0 +1,18 @@
+{
+  "pptx": "replica.pptx",
+  "checks": [
+    "Reference bitmap is not inserted into the final PPTX.",
+    "Semantic non-text visuals are inserted as individual transparent PNG picture objects.",
+    "Each placement in asset_manifest has semantic_unit_count = 1 except the approved generated scene background.",
+    "Text remains native editable PPT text.",
+    "Structural arrows, panels, connectors, and dividers are native PPT objects.",
+    "Generated icons were cut from an imagegen grid and locally chroma-keyed to transparent PNG.",
+    "PowerPoint COM round-trip PNG export completed for visual QA."
+  ],
+  "known_limits": [
+    "The generated icons intentionally match semantic role and palette, not pixel-identical source glyphs."
+  ],
+  "powerpoint_export_preview": [
+    "preview.png"
+  ]
+}

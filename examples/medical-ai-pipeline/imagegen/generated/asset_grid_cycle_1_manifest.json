@@ -1,0 +1,274 @@
+﻿{
+    "assets":  [
+                   {
+                       "id":  "database_orbit",
+                       "source_grid":  "imagegen/generated/asset_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         20,
+                                         80,
+                                         270,
+                                         230
+                                     ],
+                       "path":  "imagegen/transparent-assets/database_orbit.png",
+                       "size":  [
+                                    245,
+                                    174
+                                ]
+                   },
+                   {
+                       "id":  "ct_scan_screen",
+                       "source_grid":  "imagegen/generated/asset_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         310,
+                                         95,
+                                         320,
+                                         190
+                                     ],
+                       "path":  "imagegen/transparent-assets/ct_scan_screen.png",
+                       "size":  [
+                                    296,
+                                    159
+                                ]
+                   },
+                   {
+                       "id":  "pathology_slide",
+                       "source_grid":  "imagegen/generated/asset_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         635,
+                                         95,
+                                         310,
+                                         190
+                                     ],
+                       "path":  "imagegen/transparent-assets/pathology_slide.png",
+                       "size":  [
+                                    271,
+                                    158
+                                ]
+                   },
+                   {
+                       "id":  "emr_panel",
+                       "source_grid":  "imagegen/generated/asset_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         940,
+                                         90,
+                                         340,
+                                         210
+                                     ],
+                       "path":  "imagegen/transparent-assets/emr_panel.png",
+                       "size":  [
+                                    289,
+                                    182
+                                ]
+                   },
+                   {
+                       "id":  "lab_panel",
+                       "source_grid":  "imagegen/generated/asset_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         1270,
+                                         90,
+                                         360,
+                                         220
+                                     ],
+                       "path":  "imagegen/transparent-assets/lab_panel.png",
+                       "size":  [
+                                    319,
+                                    181
+                                ]
+                   },
+                   {
+                       "id":  "brain_network",
+                       "source_grid":  "imagegen/generated/asset_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         25,
+                                         365,
+                                         250,
+                                         240
+                                     ],
+                       "path":  "imagegen/transparent-assets/brain_network.png",
+                       "size":  [
+                                    213,
+                                    202
+                                ]
+                   },
+                   {
+                       "id":  "knowledge_graph",
+                       "source_grid":  "imagegen/generated/asset_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         290,
+                                         365,
+                                         300,
+                                         230
+                                     ],
+                       "path":  "imagegen/transparent-assets/knowledge_graph.png",
+                       "size":  [
+                                    237,
+                                    190
+                                ]
+                   },
+                   {
+                       "id":  "encoder_cube",
+                       "source_grid":  "imagegen/generated/asset_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         590,
+                                         365,
+                                         340,
+                                         230
+                                     ],
+                       "path":  "imagegen/transparent-assets/encoder_cube.png",
+                       "size":  [
+                                    313,
+                                    161
+                                ]
+                   },
+                   {
+                       "id":  "risk_gauge",
+                       "source_grid":  "imagegen/generated/asset_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         930,
+                                         390,
+                                         230,
+                                         190
+                                     ],
+                       "path":  "imagegen/transparent-assets/risk_gauge.png",
+                       "size":  [
+                                    210,
+                                    133
+                                ]
+                   },
+                   {
+                       "id":  "roc_curve",
+                       "source_grid":  "imagegen/generated/asset_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         1135,
+                                         380,
+                                         240,
+                                         200
+                                     ],
+                       "path":  "imagegen/transparent-assets/roc_curve.png",
+                       "size":  [
+                                    194,
+                                    158
+                                ]
+                   },
+                   {
+                       "id":  "risk_scale",
+                       "source_grid":  "imagegen/generated/asset_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         1380,
+                                         445,
+                                         280,
+                                         110
+                                     ],
+                       "path":  "imagegen/transparent-assets/risk_scale.png",
+                       "size":  [
+                                    240,
+                                    53
+                                ]
+                   },
+                   {
+                       "id":  "explainability_heatmap",
+                       "source_grid":  "imagegen/generated/asset_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         20,
+                                         655,
+                                         270,
+                                         190
+                                     ],
+                       "path":  "imagegen/transparent-assets/explainability_heatmap.png",
+                       "size":  [
+                                    245,
+                                    149
+                                ]
+                   },
+                   {
+                       "id":  "feature_bars",
+                       "source_grid":  "imagegen/generated/asset_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         300,
+                                         655,
+                                         210,
+                                         180
+                                     ],
+                       "path":  "imagegen/transparent-assets/feature_bars.png",
+                       "size":  [
+                                    164,
+                                    158
+                                ]
+                   },
+                   {
+                       "id":  "medical_cross",
+                       "source_grid":  "imagegen/generated/asset_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         510,
+                                         640,
+                                         240,
+                                         220
+                                     ],
+                       "path":  "imagegen/transparent-assets/medical_cross.png",
+                       "size":  [
+                                    217,
+                                    170
+                                ]
+                   },
+                   {
+                       "id":  "diagnosis_panel",
+                       "source_grid":  "imagegen/generated/asset_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         725,
+                                         645,
+                                         220,
+                                         210
+                                     ],
+                       "path":  "imagegen/transparent-assets/diagnosis_panel.png",
+                       "size":  [
+                                    202,
+                                    165
+                                ]
+                   },
+                   {
+                       "id":  "followup_panel",
+                       "source_grid":  "imagegen/generated/asset_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         920,
+                                         645,
+                                         208,
+                                         210
+                                     ],
+                       "path":  "imagegen/transparent-assets/followup_panel.png",
+                       "size":  [
+                                    191,
+                                    163
+                                ]
+                   },
+                   {
+                       "id":  "doctor_workstation",
+                       "source_grid":  "imagegen/generated/asset_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         1130,
+                                         635,
+                                         230,
+                                         230
+                                     ],
+                       "path":  "imagegen/transparent-assets/doctor_workstation.png",
+                       "size":  [
+                                    216,
+                                    164
+                                ]
+                   },
+                   {
+                       "id":  "quality_panel",
+                       "source_grid":  "imagegen/generated/asset_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         1380,
+                                         645,
+                                         280,
+                                         210
+                                     ],
+                       "path":  "imagegen/transparent-assets/quality_panel.png",
+                       "size":  [
+                                    239,
+                                    156
+                                ]
+                   }
+               ]
+}

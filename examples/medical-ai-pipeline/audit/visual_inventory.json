@@ -1,0 +1,1165 @@
+{
+  "reference": "reference.png",
+  "slide_size_px": [
+    1672,
+    941
+  ],
+  "minimum_semantic_unit_policy": "text and structural layout are PPT-native; every semantic non-text visual is an independent generated image asset placement",
+  "items": [
+    {
+      "id": "database_orbit",
+      "class": "imagegen_asset",
+      "source": "assets/database_orbit.png",
+      "bbox": [
+        42,
+        174,
+        176,
+        128
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "icon_ct_magnifier",
+      "class": "imagegen_asset",
+      "source": "assets/icon_ct_magnifier.png",
+      "bbox": [
+        300,
+        124,
+        50,
+        44
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "ct_scan_screen",
+      "class": "imagegen_asset",
+      "source": "assets/ct_scan_screen.png",
+      "bbox": [
+        275,
+        170,
+        260,
+        120
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "icon_microscope_header",
+      "class": "imagegen_asset",
+      "source": "assets/icon_microscope_header.png",
+      "bbox": [
+        608,
+        122,
+        46,
+        48
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "pathology_slide",
+      "class": "imagegen_asset",
+      "source": "assets/pathology_slide.png",
+      "bbox": [
+        579,
+        169,
+        262,
+        122
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "icon_emr_clipboard",
+      "class": "imagegen_asset",
+      "source": "assets/icon_emr_clipboard.png",
+      "bbox": [
+        939,
+        122,
+        48,
+        48
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "emr_panel",
+      "class": "imagegen_asset",
+      "source": "assets/emr_panel.png",
+      "bbox": [
+        888,
+        168,
+        318,
+        124
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "icon_lab_flask_green",
+      "class": "imagegen_asset",
+      "source": "assets/icon_flask_feature.png",
+      "bbox": [
+        1300,
+        122,
+        52,
+        48
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "lab_panel",
+      "class": "imagegen_asset",
+      "source": "assets/lab_panel.png",
+      "bbox": [
+        1252,
+        168,
+        356,
+        125
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "brain_network",
+      "class": "imagegen_asset",
+      "source": "assets/brain_network.png",
+      "bbox": [
+        52,
+        438,
+        170,
+        150
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "knowledge_graph",
+      "class": "imagegen_asset",
+      "source": "assets/knowledge_graph.png",
+      "bbox": [
+        252,
+        397,
+        232,
+        184
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "encoder_cube",
+      "class": "imagegen_asset",
+      "source": "assets/encoder_cube.png",
+      "bbox": [
+        536,
+        407,
+        332,
+        150
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "icon_cube_feature",
+      "class": "imagegen_asset",
+      "source": "assets/icon_cube_feature.png",
+      "bbox": [
+        548,
+        565,
+        43,
+        43
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "icon_microscope_feature",
+      "class": "imagegen_asset",
+      "source": "assets/icon_microscope_feature.png",
+      "bbox": [
+        625,
+        565,
+        43,
+        43
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "icon_document_feature",
+      "class": "imagegen_asset",
+      "source": "assets/icon_document_feature.png",
+      "bbox": [
+        700,
+        565,
+        43,
+        43
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "icon_flask_feature",
+      "class": "imagegen_asset",
+      "source": "assets/icon_flask_feature.png",
+      "bbox": [
+        774,
+        565,
+        43,
+        43
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "risk_gauge",
+      "class": "imagegen_asset",
+      "source": "assets/risk_gauge.png",
+      "bbox": [
+        946,
+        412,
+        186,
+        125
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "roc_curve",
+      "class": "imagegen_asset",
+      "source": "assets/roc_curve.png",
+      "bbox": [
+        944,
+        516,
+        170,
+        106
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "risk_scale",
+      "class": "imagegen_asset",
+      "source": "assets/risk_scale.png",
+      "bbox": [
+        1127,
+        554,
+        132,
+        38
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "explainability_heatmap",
+      "class": "imagegen_asset",
+      "source": "assets/explainability_heatmap.png",
+      "bbox": [
+        1365,
+        421,
+        180,
+        84
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "feature_bars",
+      "class": "imagegen_asset",
+      "source": "assets/feature_bars.png",
+      "bbox": [
+        1362,
+        536,
+        212,
+        85
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "medical_cross",
+      "class": "imagegen_asset",
+      "source": "assets/medical_cross.png",
+      "bbox": [
+        56,
+        739,
+        150,
+        132
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "icon_diagnosis_clipboard",
+      "class": "imagegen_asset",
+      "source": "assets/icon_diagnosis_clipboard.png",
+      "bbox": [
+        254,
+        682,
+        38,
+        38
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "diagnosis_panel",
+      "class": "imagegen_asset",
+      "source": "assets/diagnosis_panel.png",
+      "bbox": [
+        237,
+        720,
+        244,
+        168
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "icon_calendar",
+      "class": "imagegen_asset",
+      "source": "assets/icon_calendar.png",
+      "bbox": [
+        566,
+        682,
+        42,
+        38
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "followup_panel",
+      "class": "imagegen_asset",
+      "source": "assets/followup_panel.png",
+      "bbox": [
+        504,
+        722,
+        332,
+        150
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "icon_workstation_monitor",
+      "class": "imagegen_asset",
+      "source": "assets/icon_workstation_monitor.png",
+      "bbox": [
+        897,
+        682,
+        50,
+        38
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "doctor_workstation",
+      "class": "imagegen_asset",
+      "source": "assets/doctor_workstation.png",
+      "bbox": [
+        862,
+        710,
+        350,
+        178
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "icon_quality_shield",
+      "class": "imagegen_asset",
+      "source": "assets/icon_quality_shield.png",
+      "bbox": [
+        1265,
+        682,
+        44,
+        42
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "quality_panel",
+      "class": "imagegen_asset",
+      "source": "assets/quality_panel.png",
+      "bbox": [
+        1240,
+        718,
+        370,
+        170
+      ],
+      "semantic_unit_count": 1
+    },
+    {
+      "id": "outer-input",
+      "class": "layout_native",
+      "bbox": [
+        27,
+        105,
+        1618,
+        229
+      ],
+      "semantic_unit_count": 0
+    },
+    {
+      "id": "outer-model",
+      "class": "layout_native",
+      "bbox": [
+        27,
+        360,
+        1618,
+        282
+      ],
+      "semantic_unit_count": 0
+    },
+    {
+      "id": "outer-output",
+      "class": "layout_native",
+      "bbox": [
+        27,
+        667,
+        1618,
+        245
+      ],
+      "semantic_unit_count": 0
+    },
+    {
+      "id": "card-ct",
+      "class": "layout_native",
+      "bbox": [
+        257,
+        121,
+        293,
+        205
+      ],
+      "semantic_unit_count": 0
+    },
+    {
+      "id": "card-pathology",
+      "class": "layout_native",
+      "bbox": [
+        560,
+        121,
+        297,
+        205
+      ],
+      "semantic_unit_count": 0
+    },
+    {
+      "id": "card-emr",
+      "class": "layout_native",
+      "bbox": [
+        869,
+        121,
+        356,
+        205
+      ],
+      "semantic_unit_count": 0
+    },
+    {
+      "id": "card-lab",
+      "class": "layout_native",
+      "bbox": [
+        1237,
+        121,
+        386,
+        205
+      ],
+      "semantic_unit_count": 0
+    },
+    {
+      "id": "card-kg",
+      "class": "layout_native",
+      "bbox": [
+        242,
+        371,
+        243,
+        262
+      ],
+      "semantic_unit_count": 0
+    },
+    {
+      "id": "card-encoder",
+      "class": "layout_native",
+      "bbox": [
+        527,
+        371,
+        355,
+        262
+      ],
+      "semantic_unit_count": 0
+    },
+    {
+      "id": "card-risk",
+      "class": "layout_native",
+      "bbox": [
+        925,
+        371,
+        367,
+        262
+      ],
+      "semantic_unit_count": 0
+    },
+    {
+      "id": "card-explain",
+      "class": "layout_native",
+      "bbox": [
+        1335,
+        371,
+        298,
+        262
+      ],
+      "semantic_unit_count": 0
+    },
+    {
+      "id": "card-diagnosis",
+      "class": "layout_native",
+      "bbox": [
+        226,
+        678,
+        266,
+        223
+      ],
+      "semantic_unit_count": 0
+    },
+    {
+      "id": "card-followup",
+      "class": "layout_native",
+      "bbox": [
+        504,
+        678,
+        331,
+        223
+      ],
+      "semantic_unit_count": 0
+    },
+    {
+      "id": "card-workstation",
+      "class": "layout_native",
+      "bbox": [
+        847,
+        678,
+        370,
+        223
+      ],
+      "semantic_unit_count": 0
+    },
+    {
+      "id": "card-quality",
+      "class": "layout_native",
+      "bbox": [
+        1220,
+        678,
+        410,
+        223
+      ],
+      "semantic_unit_count": 0
+    },
+    {
+      "id": "title",
+      "class": "text",
+      "text": "多模态医学 AI 辅助诊疗流程架构",
+      "bbox": [
+        410,
+        8,
+        865,
+        62
+      ],
+      "fontSize": 44,
+      "color": "#06166D",
+      "bold": true
+    },
+    {
+      "id": "subtitle",
+      "class": "text",
+      "text": "面向智能诊断、风险评估与临床决策支持的多源信息融合流程",
+      "bbox": [
+        500,
+        80,
+        680,
+        28
+      ],
+      "fontSize": 22,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "layer-input",
+      "class": "text",
+      "text": "数据输入层",
+      "bbox": [
+        47,
+        119,
+        170,
+        40
+      ],
+      "fontSize": 30,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "layer-model",
+      "class": "text",
+      "text": "模型分析层",
+      "bbox": [
+        45,
+        374,
+        170,
+        40
+      ],
+      "fontSize": 30,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "layer-output",
+      "class": "text",
+      "text": "临床输出层",
+      "bbox": [
+        42,
+        679,
+        170,
+        40
+      ],
+      "fontSize": 30,
+      "color": "#007B65",
+      "bold": true
+    },
+    {
+      "id": "ct-title",
+      "class": "text",
+      "text": "CT 影像",
+      "bbox": [
+        374,
+        135,
+        110,
+        24
+      ],
+      "fontSize": 21,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "path-title",
+      "class": "text",
+      "text": "病理切片",
+      "bbox": [
+        676,
+        135,
+        130,
+        24
+      ],
+      "fontSize": 21,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "emr-title",
+      "class": "text",
+      "text": "电子病历",
+      "bbox": [
+        997,
+        135,
+        150,
+        24
+      ],
+      "fontSize": 21,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "lab-title",
+      "class": "text",
+      "text": "检验指标",
+      "bbox": [
+        1360,
+        135,
+        150,
+        24
+      ],
+      "fontSize": 21,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "ct-caption",
+      "class": "text",
+      "text": "影像数据",
+      "bbox": [
+        358,
+        300,
+        100,
+        22
+      ],
+      "fontSize": 15,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "path-caption",
+      "class": "text",
+      "text": "组织学信息",
+      "bbox": [
+        662,
+        300,
+        130,
+        22
+      ],
+      "fontSize": 15,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "emr-caption",
+      "class": "text",
+      "text": "结构化/非结构化文本",
+      "bbox": [
+        958,
+        300,
+        220,
+        22
+      ],
+      "fontSize": 15,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "lab-caption",
+      "class": "text",
+      "text": "实验室指标",
+      "bbox": [
+        1365,
+        300,
+        140,
+        22
+      ],
+      "fontSize": 15,
+      "color": "#22945C",
+      "bold": true
+    },
+    {
+      "id": "kg-title",
+      "class": "text",
+      "text": "知识图谱",
+      "bbox": [
+        327,
+        385,
+        84,
+        24
+      ],
+      "fontSize": 18,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "kg-label-disease",
+      "class": "text",
+      "text": "疾病",
+      "bbox": [
+        260,
+        442,
+        40,
+        16
+      ],
+      "fontSize": 11,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "kg-label-drug",
+      "class": "text",
+      "text": "药物",
+      "bbox": [
+        433,
+        442,
+        40,
+        16
+      ],
+      "fontSize": 11,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "kg-label-check",
+      "class": "text",
+      "text": "检查",
+      "bbox": [
+        402,
+        414,
+        40,
+        16
+      ],
+      "fontSize": 11,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "kg-label-symptom",
+      "class": "text",
+      "text": "症状",
+      "bbox": [
+        340,
+        416,
+        40,
+        16
+      ],
+      "fontSize": 11,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "kg-label-treatment",
+      "class": "text",
+      "text": "治疗",
+      "bbox": [
+        350,
+        588,
+        40,
+        16
+      ],
+      "fontSize": 11,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "kg-label-lab",
+      "class": "text",
+      "text": "实验室",
+      "bbox": [
+        423,
+        548,
+        50,
+        16
+      ],
+      "fontSize": 11,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "encoder-title",
+      "class": "text",
+      "text": "多模态编码器",
+      "bbox": [
+        634,
+        382,
+        145,
+        28
+      ],
+      "fontSize": 22,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "encoder-feature-labels",
+      "class": "text",
+      "text": "影像特征          病理特征          文本特征          检验特征",
+      "bbox": [
+        548,
+        610,
+        276,
+        18
+      ],
+      "fontSize": 12,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "encoder-more",
+      "class": "text",
+      "text": "...",
+      "bbox": [
+        846,
+        578,
+        28,
+        22
+      ],
+      "fontSize": 18,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "risk-title",
+      "class": "text",
+      "text": "风险预测",
+      "bbox": [
+        1038,
+        382,
+        100,
+        24
+      ],
+      "fontSize": 19,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "risk-score",
+      "class": "text",
+      "text": "中高风险\n0.72",
+      "bbox": [
+        993,
+        488,
+        90,
+        48
+      ],
+      "fontSize": 18,
+      "color": "#06166D",
+      "bold": true
+    },
+    {
+      "id": "risk-levels",
+      "class": "text",
+      "text": "风险分层\n低风险     < 0.30\n中风险     0.30-0.60\n高风险     > 0.60",
+      "bbox": [
+        1118,
+        413,
+        145,
+        92
+      ],
+      "fontSize": 13,
+      "color": "#11835F",
+      "bold": true
+    },
+    {
+      "id": "roc-title",
+      "class": "text",
+      "text": "ROC 曲线（示例）",
+      "bbox": [
+        981,
+        530,
+        105,
+        18
+      ],
+      "fontSize": 12,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "risk-alarm-title",
+      "class": "text",
+      "text": "风险报警条",
+      "bbox": [
+        1168,
+        528,
+        90,
+        18
+      ],
+      "fontSize": 12,
+      "color": "#11835F",
+      "bold": true
+    },
+    {
+      "id": "risk-alarm-score",
+      "class": "text",
+      "text": "0.72",
+      "bbox": [
+        1215,
+        548,
+        42,
+        22
+      ],
+      "fontSize": 16,
+      "color": "#E31B1B",
+      "bold": true
+    },
+    {
+      "id": "explain-title",
+      "class": "text",
+      "text": "可解释性模块",
+      "bbox": [
+        1416,
+        382,
+        140,
+        24
+      ],
+      "fontSize": 18,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "explain-heat-caption",
+      "class": "text",
+      "text": "注意力热力图（示例）",
+      "bbox": [
+        1392,
+        397,
+        150,
+        18
+      ],
+      "fontSize": 11,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "explain-bars-caption",
+      "class": "text",
+      "text": "特征贡献度（示例）",
+      "bbox": [
+        1398,
+        516,
+        150,
+        18
+      ],
+      "fontSize": 11,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "explain-bar-labels",
+      "class": "text",
+      "text": "病理特征\n影像特征\n检验特征\n文本特征\n其他",
+      "bbox": [
+        1368,
+        544,
+        58,
+        72
+      ],
+      "fontSize": 10,
+      "color": "#0647B3",
+      "bold": true
+    },
+    {
+      "id": "diagnosis-title",
+      "class": "text",
+      "text": "诊断建议",
+      "bbox": [
+        324,
+        690,
+        110,
+        24
+      ],
+      "fontSize": 20,
+      "color": "#007B65",
+      "bold": true
+    },
+    {
+      "id": "diagnosis-body",
+      "class": "text",
+      "text": "综合分析结论（示例）\n✓ 倾向：肺腺癌\n✓ 分期：T2aN1M0 IIA期\n✓ 基因检测：EGFR/ALK",
+      "bbox": [
+        284,
+        735,
+        154,
+        88
+      ],
+      "fontSize": 9.5,
+      "color": "#005A69",
+      "bold": true
+    },
+    {
+      "id": "followup-title",
+      "class": "text",
+      "text": "随访计划",
+      "bbox": [
+        652,
+        690,
+        110,
+        24
+      ],
+      "fontSize": 20,
+      "color": "#007B65",
+      "bold": true
+    },
+    {
+      "id": "followup-timeline",
+      "class": "text",
+      "text": "基线\n(当前)        1个月        3个月        6个月        12个月",
+      "bbox": [
+        526,
+        728,
+        280,
+        37
+      ],
+      "fontSize": 12,
+      "color": "#005A69",
+      "bold": true
+    },
+    {
+      "id": "followup-items",
+      "class": "text",
+      "text": "随访内容\n影像复查        实验室检查        症状评估        治疗评估\n(胸部CT)        (肿瘤标志物)      (问卷)          (疗效)",
+      "bbox": [
+        527,
+        805,
+        285,
+        58
+      ],
+      "fontSize": 10,
+      "color": "#005A69",
+      "bold": true
+    },
+    {
+      "id": "workstation-title",
+      "class": "text",
+      "text": "医生工作站",
+      "bbox": [
+        986,
+        690,
+        125,
+        24
+      ],
+      "fontSize": 20,
+      "color": "#007B65",
+      "bold": true
+    },
+    {
+      "id": "quality-title",
+      "class": "text",
+      "text": "质量评估",
+      "bbox": [
+        1375,
+        690,
+        110,
+        24
+      ],
+      "fontSize": 20,
+      "color": "#007B65",
+      "bold": true
+    },
+    {
+      "id": "quality-labels",
+      "class": "text",
+      "text": "模型性能（示例）\n准确率\n0.88\nF1 值\n0.87\n精确率\n0.87\n召回率\n0.85\n特异度\n0.89",
+      "bbox": [
+        1240,
+        724,
+        130,
+        135
+      ],
+      "fontSize": 11,
+      "color": "#005A69",
+      "bold": true
+    },
+    {
+      "id": "quality-line-label",
+      "class": "text",
+      "text": "校准曲线（示例）",
+      "bbox": [
+        1440,
+        724,
+        130,
+        18
+      ],
+      "fontSize": 11,
+      "color": "#007B65",
+      "bold": true
+    },
+    {
+      "id": "footer",
+      "class": "text",
+      "text": "示意图（Synthetic Example）",
+      "bbox": [
+        660,
+        913,
+        350,
+        24
+      ],
+      "fontSize": 16,
+      "color": "#0647B3",
+      "bold": false
+    },
+    {
+      "id": "emr-tab-structured-text",
+      "class": "text",
+      "text": "结构化信息",
+      "bbox": [
+        1060,
+        184,
+        80,
+        19
+      ],
+      "fontSize": 10,
+      "color": "#FFFFFF",
+      "bold": true
+    },
+    {
+      "id": "emr-tab-free-text",
+      "class": "text",
+      "text": "非结构化文本",
+      "bbox": [
+        1150,
+        184,
+        88,
+        19
+      ],
+      "fontSize": 10,
+      "color": "#FFFFFF",
+      "bold": true
+    }
+  ]
+}

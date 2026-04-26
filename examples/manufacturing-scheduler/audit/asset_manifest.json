@@ -1,0 +1,1093 @@
+{
+  "canvas": {
+    "width": 1672,
+    "height": 941
+  },
+  "slide": {
+    "width_in": 16.0,
+    "height_in": 9.004784688995215
+  },
+  "assets": [
+    {
+      "semantic_unit_id": "scene_bg",
+      "class": "generated_scene_background",
+      "path": "scene_background_top.png",
+      "bbox": [
+        122,
+        107,
+        1526,
+        255
+      ],
+      "semantic_unit_count": null,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "scene_layer_icon",
+      "class": "imagegen_asset",
+      "path": "scene_factory.png",
+      "bbox": [
+        36,
+        176,
+        62,
+        62
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "sensor_icon",
+      "class": "imagegen_asset",
+      "path": "sensor_data.png",
+      "bbox": [
+        263,
+        140,
+        45,
+        42
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "status_icon",
+      "class": "imagegen_asset",
+      "path": "equipment_status.png",
+      "bbox": [
+        367,
+        141,
+        48,
+        42
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "environment_icon",
+      "class": "imagegen_asset",
+      "path": "environment_info.png",
+      "bbox": [
+        468,
+        140,
+        50,
+        42
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "amr_1",
+      "class": "imagegen_asset",
+      "path": "amr.png",
+      "bbox": [
+        165,
+        246,
+        126,
+        74
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "robot_arm_1",
+      "class": "imagegen_asset",
+      "path": "robot_arm.png",
+      "bbox": [
+        360,
+        219,
+        134,
+        94
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "amr_2",
+      "class": "imagegen_asset",
+      "path": "amr.png",
+      "bbox": [
+        618,
+        247,
+        126,
+        74
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "agv_1",
+      "class": "imagegen_asset",
+      "path": "agv.png",
+      "bbox": [
+        760,
+        250,
+        134,
+        73
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "robot_arm_2",
+      "class": "imagegen_asset",
+      "path": "robot_arm.png",
+      "bbox": [
+        980,
+        218,
+        134,
+        94
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "server_1",
+      "class": "imagegen_asset",
+      "path": "server.png",
+      "bbox": [
+        1128,
+        190,
+        88,
+        126
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "database_1",
+      "class": "imagegen_asset",
+      "path": "database.png",
+      "bbox": [
+        1250,
+        206,
+        93,
+        112
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "twin_screen_1",
+      "class": "imagegen_asset",
+      "path": "twin_screen.png",
+      "bbox": [
+        1358,
+        159,
+        248,
+        153
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "algorithm_layer_icon",
+      "class": "imagegen_asset",
+      "path": "algorithm_chip.png",
+      "bbox": [
+        36,
+        500,
+        64,
+        64
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "order_clipboard",
+      "class": "imagegen_asset",
+      "path": "clipboard.png",
+      "bbox": [
+        223,
+        492,
+        72,
+        86
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "task_assign_icon",
+      "class": "imagegen_asset",
+      "path": "task_assign.png",
+      "bbox": [
+        507,
+        441,
+        36,
+        36
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "resource_icon",
+      "class": "imagegen_asset",
+      "path": "resource_cube.png",
+      "bbox": [
+        506,
+        519,
+        38,
+        38
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "energy_icon",
+      "class": "imagegen_asset",
+      "path": "energy_droplet.png",
+      "bbox": [
+        506,
+        592,
+        38,
+        38
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "constraint_icon",
+      "class": "imagegen_asset",
+      "path": "constraint_shield.png",
+      "bbox": [
+        706,
+        434,
+        32,
+        32
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "brain_scheduler_icon",
+      "class": "imagegen_asset",
+      "path": "brain_scheduler.png",
+      "bbox": [
+        801,
+        496,
+        78,
+        65
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "policy_update_icon",
+      "class": "imagegen_asset",
+      "path": "dispatch_nodes.png",
+      "bbox": [
+        742,
+        614,
+        32,
+        32
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "anomaly_icon",
+      "class": "imagegen_asset",
+      "path": "alarm.png",
+      "bbox": [
+        1045,
+        443,
+        44,
+        36
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "collab_icon",
+      "class": "imagegen_asset",
+      "path": "robot_collab.png",
+      "bbox": [
+        1046,
+        512,
+        44,
+        42
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "status_eval_icon",
+      "class": "imagegen_asset",
+      "path": "status_bars.png",
+      "bbox": [
+        1046,
+        591,
+        44,
+        42
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "resource_pool_group_icon",
+      "class": "imagegen_asset",
+      "path": "resource_pool_group.png",
+      "bbox": [
+        1306,
+        492,
+        126,
+        40
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "device_pool_group_icon",
+      "class": "imagegen_asset",
+      "path": "device_pool_group.png",
+      "bbox": [
+        1306,
+        574,
+        126,
+        44
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "output_layer_icon",
+      "class": "imagegen_asset",
+      "path": "output_monitor.png",
+      "bbox": [
+        36,
+        788,
+        62,
+        62
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "decision_graph_icon",
+      "class": "imagegen_asset",
+      "path": "dispatch_nodes.png",
+      "bbox": [
+        184,
+        782,
+        114,
+        60
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "execution_doc_icon",
+      "class": "imagegen_asset",
+      "path": "task_assign.png",
+      "bbox": [
+        407,
+        791,
+        58,
+        70
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "route_icon",
+      "class": "imagegen_asset",
+      "path": "route_kpi.png",
+      "bbox": [
+        560,
+        790,
+        96,
+        63
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "alarm_output_icon",
+      "class": "imagegen_asset",
+      "path": "alarm.png",
+      "bbox": [
+        738,
+        788,
+        78,
+        62
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "energy_output_icon",
+      "class": "imagegen_asset",
+      "path": "energy_leaf_battery.png",
+      "bbox": [
+        884,
+        788,
+        80,
+        65
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "kpi_bar_completion",
+      "class": "imagegen_asset",
+      "path": "kpi_bar_1.png",
+      "bbox": [
+        1026,
+        820,
+        78,
+        42
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "kpi_bar_utilization",
+      "class": "imagegen_asset",
+      "path": "kpi_bar_2.png",
+      "bbox": [
+        1140,
+        820,
+        78,
+        42
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "kpi_line_response",
+      "class": "imagegen_asset",
+      "path": "kpi_line_blue.png",
+      "bbox": [
+        1261,
+        820,
+        78,
+        42
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "kpi_line_energy",
+      "class": "imagegen_asset",
+      "path": "kpi_line_green.png",
+      "bbox": [
+        1375,
+        820,
+        78,
+        42
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "kpi_line_anomaly",
+      "class": "imagegen_asset",
+      "path": "kpi_line_orange.png",
+      "bbox": [
+        1489,
+        820,
+        78,
+        42
+      ],
+      "semantic_unit_count": 1,
+      "source_type": "imagegen_asset"
+    }
+  ],
+  "placements": [
+    {
+      "id": "scene_layer_icon",
+      "path": "scene_factory.png",
+      "anchor_slot": [
+        36,
+        176,
+        62,
+        62
+      ],
+      "fitted_bbox": [
+        36.0,
+        178.27941176470588,
+        61.99999999999999,
+        57.44117647058823
+      ]
+    },
+    {
+      "id": "sensor_icon",
+      "path": "sensor_data.png",
+      "anchor_slot": [
+        263,
+        140,
+        45,
+        42
+      ],
+      "fitted_bbox": [
+        273.1896551724138,
+        140.0,
+        24.620689655172413,
+        42.0
+      ]
+    },
+    {
+      "id": "status_icon",
+      "path": "equipment_status.png",
+      "anchor_slot": [
+        367,
+        141,
+        48,
+        42
+      ],
+      "fitted_bbox": [
+        368.50887573964496,
+        141.0,
+        44.98224852071006,
+        42.0
+      ]
+    },
+    {
+      "id": "environment_icon",
+      "path": "environment_info.png",
+      "anchor_slot": [
+        468,
+        140,
+        50,
+        42
+      ],
+      "fitted_bbox": [
+        474.40361445783134,
+        140.0,
+        37.192771084337345,
+        42.0
+      ]
+    },
+    {
+      "id": "amr_1",
+      "path": "amr.png",
+      "anchor_slot": [
+        165,
+        246,
+        126,
+        74
+      ],
+      "fitted_bbox": [
+        182.5482233502538,
+        246.0,
+        90.90355329949239,
+        74.0
+      ]
+    },
+    {
+      "id": "robot_arm_1",
+      "path": "robot_arm.png",
+      "anchor_slot": [
+        360,
+        219,
+        134,
+        94
+      ],
+      "fitted_bbox": [
+        369.92857142857144,
+        219.0,
+        114.14285714285714,
+        94.0
+      ]
+    },
+    {
+      "id": "amr_2",
+      "path": "amr.png",
+      "anchor_slot": [
+        618,
+        247,
+        126,
+        74
+      ],
+      "fitted_bbox": [
+        635.5482233502538,
+        247.0,
+        90.90355329949239,
+        74.0
+      ]
+    },
+    {
+      "id": "agv_1",
+      "path": "agv.png",
+      "anchor_slot": [
+        760,
+        250,
+        134,
+        73
+      ],
+      "fitted_bbox": [
+        771.4815789473685,
+        250.0,
+        111.03684210526315,
+        73.0
+      ]
+    },
+    {
+      "id": "robot_arm_2",
+      "path": "robot_arm.png",
+      "anchor_slot": [
+        980,
+        218,
+        134,
+        94
+      ],
+      "fitted_bbox": [
+        989.9285714285714,
+        218.0,
+        114.14285714285714,
+        94.0
+      ]
+    },
+    {
+      "id": "server_1",
+      "path": "server.png",
+      "anchor_slot": [
+        1128,
+        190,
+        88,
+        126
+      ],
+      "fitted_bbox": [
+        1128.0,
+        192.8134715025907,
+        88.0,
+        120.37305699481865
+      ]
+    },
+    {
+      "id": "database_1",
+      "path": "database.png",
+      "anchor_slot": [
+        1250,
+        206,
+        93,
+        112
+      ],
+      "fitted_bbox": [
+        1255.4502262443439,
+        206.0,
+        82.09954751131221,
+        112.0
+      ]
+    },
+    {
+      "id": "twin_screen_1",
+      "path": "twin_screen.png",
+      "anchor_slot": [
+        1358,
+        159,
+        248,
+        153
+      ],
+      "fitted_bbox": [
+        1358.0,
+        161.3181818181818,
+        248.0,
+        148.36363636363637
+      ]
+    },
+    {
+      "id": "algorithm_layer_icon",
+      "path": "algorithm_chip.png",
+      "anchor_slot": [
+        36,
+        500,
+        64,
+        64
+      ],
+      "fitted_bbox": [
+        36.0,
+        501.5147928994083,
+        64.0,
+        60.97041420118343
+      ]
+    },
+    {
+      "id": "order_clipboard",
+      "path": "clipboard.png",
+      "anchor_slot": [
+        223,
+        492,
+        72,
+        86
+      ],
+      "fitted_bbox": [
+        225.0042735042735,
+        492.0,
+        67.991452991453,
+        86.0
+      ]
+    },
+    {
+      "id": "task_assign_icon",
+      "path": "task_assign.png",
+      "anchor_slot": [
+        507,
+        441,
+        36,
+        36
+      ],
+      "fitted_bbox": [
+        510.878453038674,
+        441.0,
+        28.243093922651934,
+        36.0
+      ]
+    },
+    {
+      "id": "resource_icon",
+      "path": "resource_cube.png",
+      "anchor_slot": [
+        506,
+        519,
+        38,
+        38
+      ],
+      "fitted_bbox": [
+        509.98536585365855,
+        519.0,
+        30.029268292682925,
+        38.0
+      ]
+    },
+    {
+      "id": "energy_icon",
+      "path": "energy_droplet.png",
+      "anchor_slot": [
+        506,
+        592,
+        38,
+        38
+      ],
+      "fitted_bbox": [
+        515.5748031496063,
+        592.0,
+        18.850393700787404,
+        38.0
+      ]
+    },
+    {
+      "id": "constraint_icon",
+      "path": "constraint_shield.png",
+      "anchor_slot": [
+        706,
+        434,
+        32,
+        32
+      ],
+      "fitted_bbox": [
+        712.530612244898,
+        434.0,
+        18.938775510204085,
+        32.0
+      ]
+    },
+    {
+      "id": "brain_scheduler_icon",
+      "path": "brain_scheduler.png",
+      "anchor_slot": [
+        801,
+        496,
+        78,
+        65
+      ],
+      "fitted_bbox": [
+        806.7261904761905,
+        496.0,
+        66.54761904761905,
+        65.0
+      ]
+    },
+    {
+      "id": "policy_update_icon",
+      "path": "dispatch_nodes.png",
+      "anchor_slot": [
+        742,
+        614,
+        32,
+        32
+      ],
+      "fitted_bbox": [
+        742.0,
+        616.989898989899,
+        32.0,
+        26.02020202020202
+      ]
+    },
+    {
+      "id": "anomaly_icon",
+      "path": "alarm.png",
+      "anchor_slot": [
+        1045,
+        443,
+        44,
+        36
+      ],
+      "fitted_bbox": [
+        1045.0,
+        448.0922509225092,
+        44.0,
+        25.815498154981547
+      ]
+    },
+    {
+      "id": "collab_icon",
+      "path": "robot_collab.png",
+      "anchor_slot": [
+        1046,
+        512,
+        44,
+        42
+      ],
+      "fitted_bbox": [
+        1050.36328125,
+        512.0,
+        35.2734375,
+        42.0
+      ]
+    },
+    {
+      "id": "status_eval_icon",
+      "path": "status_bars.png",
+      "anchor_slot": [
+        1046,
+        591,
+        44,
+        42
+      ],
+      "fitted_bbox": [
+        1046.0,
+        591.0414201183432,
+        44.0,
+        41.917159763313606
+      ]
+    },
+    {
+      "id": "resource_pool_group_icon",
+      "path": "resource_pool_group.png",
+      "anchor_slot": [
+        1306,
+        492,
+        126,
+        40
+      ],
+      "fitted_bbox": [
+        1335.1224489795918,
+        492.0,
+        67.75510204081634,
+        40.00000000000001
+      ]
+    },
+    {
+      "id": "device_pool_group_icon",
+      "path": "device_pool_group.png",
+      "anchor_slot": [
+        1306,
+        574,
+        126,
+        44
+      ],
+      "fitted_bbox": [
+        1314.3741496598639,
+        574.0,
+        109.25170068027211,
+        44.0
+      ]
+    },
+    {
+      "id": "output_layer_icon",
+      "path": "output_monitor.png",
+      "anchor_slot": [
+        36,
+        788,
+        62,
+        62
+      ],
+      "fitted_bbox": [
+        36.0,
+        793.1390374331551,
+        62.0,
+        51.72192513368984
+      ]
+    },
+    {
+      "id": "decision_graph_icon",
+      "path": "dispatch_nodes.png",
+      "anchor_slot": [
+        184,
+        782,
+        114,
+        60
+      ],
+      "fitted_bbox": [
+        204.1055900621118,
+        782.0,
+        73.7888198757764,
+        60.0
+      ]
+    },
+    {
+      "id": "execution_doc_icon",
+      "path": "task_assign.png",
+      "anchor_slot": [
+        407,
+        791,
+        58,
+        70
+      ],
+      "fitted_bbox": [
+        408.5414364640884,
+        791.0,
+        54.91712707182321,
+        70.0
+      ]
+    },
+    {
+      "id": "route_icon",
+      "path": "route_kpi.png",
+      "anchor_slot": [
+        560,
+        790,
+        96,
+        63
+      ],
+      "fitted_bbox": [
+        560.0,
+        795.2142857142857,
+        95.99999999999999,
+        52.57142857142857
+      ]
+    },
+    {
+      "id": "alarm_output_icon",
+      "path": "alarm.png",
+      "anchor_slot": [
+        738,
+        788,
+        78,
+        62
+      ],
+      "fitted_bbox": [
+        738.0,
+        796.1180811808118,
+        78.0,
+        45.76383763837638
+      ]
+    },
+    {
+      "id": "energy_output_icon",
+      "path": "energy_leaf_battery.png",
+      "anchor_slot": [
+        884,
+        788,
+        80,
+        65
+      ],
+      "fitted_bbox": [
+        884.0,
+        791.7116788321168,
+        80.0,
+        57.57664233576642
+      ]
+    },
+    {
+      "id": "kpi_bar_completion",
+      "path": "kpi_bar_1.png",
+      "anchor_slot": [
+        1026,
+        820,
+        78,
+        42
+      ],
+      "fitted_bbox": [
+        1039.941717791411,
+        820.0,
+        50.11656441717792,
+        42.0
+      ]
+    },
+    {
+      "id": "kpi_bar_utilization",
+      "path": "kpi_bar_2.png",
+      "anchor_slot": [
+        1140,
+        820,
+        78,
+        42
+      ],
+      "fitted_bbox": [
+        1153.7614678899083,
+        820.0,
+        50.477064220183486,
+        42.0
+      ]
+    },
+    {
+      "id": "kpi_line_response",
+      "path": "kpi_line_blue.png",
+      "anchor_slot": [
+        1261,
+        820,
+        78,
+        42
+      ],
+      "fitted_bbox": [
+        1274.7614678899083,
+        820.0,
+        50.477064220183486,
+        42.0
+      ]
+    },
+    {
+      "id": "kpi_line_energy",
+      "path": "kpi_line_green.png",
+      "anchor_slot": [
+        1375,
+        820,
+        78,
+        42
+      ],
+      "fitted_bbox": [
+        1389.7074569789675,
+        820.0,
+        48.58508604206501,
+        42.0
+      ]
+    },
+    {
+      "id": "kpi_line_anomaly",
+      "path": "kpi_line_orange.png",
+      "anchor_slot": [
+        1489,
+        820,
+        78,
+        42
+      ],
+      "fitted_bbox": [
+        1502.5277777777778,
+        820.0,
+        50.94444444444444,
+        42.0
+      ]
+    },
+    {
+      "id": "scene_bg",
+      "path": "scene_background_top.png",
+      "anchor_slot": [
+        122,
+        107,
+        1526,
+        255
+      ],
+      "fitted_bbox": [
+        122,
+        107,
+        1526,
+        255
+      ]
+    }
+  ],
+  "rules": {
+    "source_bitmap_reference_embedded": false,
+    "all_semantic_visuals_are_images": true,
+    "semantic_unit_count_per_final_image": 1,
+    "image_scaling": "uniform contain"
+  }
+}

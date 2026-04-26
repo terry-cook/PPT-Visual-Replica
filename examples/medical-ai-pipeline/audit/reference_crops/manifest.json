@@ -1,0 +1,484 @@
+﻿{
+    "crops":  [
+                  {
+                      "anchor_id":  "database_orbit",
+                      "source_bbox":  [
+                                          42,
+                                          174,
+                                          176,
+                                          128
+                                      ],
+                      "crop_bbox":  [
+                                        34,
+                                        166,
+                                        192,
+                                        144
+                                    ],
+                      "path":  "audit/reference_crops/database_orbit.png"
+                  },
+                  {
+                      "anchor_id":  "icon_ct_magnifier",
+                      "source_bbox":  [
+                                          300,
+                                          124,
+                                          50,
+                                          44
+                                      ],
+                      "crop_bbox":  [
+                                        292,
+                                        116,
+                                        66,
+                                        60
+                                    ],
+                      "path":  "audit/reference_crops/icon_ct_magnifier.png"
+                  },
+                  {
+                      "anchor_id":  "ct_scan_screen",
+                      "source_bbox":  [
+                                          275,
+                                          170,
+                                          260,
+                                          120
+                                      ],
+                      "crop_bbox":  [
+                                        267,
+                                        162,
+                                        276,
+                                        136
+                                    ],
+                      "path":  "audit/reference_crops/ct_scan_screen.png"
+                  },
+                  {
+                      "anchor_id":  "icon_microscope_header",
+                      "source_bbox":  [
+                                          608,
+                                          122,
+                                          46,
+                                          48
+                                      ],
+                      "crop_bbox":  [
+                                        600,
+                                        114,
+                                        62,
+                                        64
+                                    ],
+                      "path":  "audit/reference_crops/icon_microscope_header.png"
+                  },
+                  {
+                      "anchor_id":  "pathology_slide",
+                      "source_bbox":  [
+                                          579,
+                                          169,
+                                          262,
+                                          122
+                                      ],
+                      "crop_bbox":  [
+                                        571,
+                                        161,
+                                        278,
+                                        138
+                                    ],
+                      "path":  "audit/reference_crops/pathology_slide.png"
+                  },
+                  {
+                      "anchor_id":  "icon_emr_clipboard",
+                      "source_bbox":  [
+                                          939,
+                                          122,
+                                          48,
+                                          48
+                                      ],
+                      "crop_bbox":  [
+                                        931,
+                                        114,
+                                        64,
+                                        64
+                                    ],
+                      "path":  "audit/reference_crops/icon_emr_clipboard.png"
+                  },
+                  {
+                      "anchor_id":  "emr_panel",
+                      "source_bbox":  [
+                                          888,
+                                          168,
+                                          318,
+                                          124
+                                      ],
+                      "crop_bbox":  [
+                                        880,
+                                        160,
+                                        334,
+                                        140
+                                    ],
+                      "path":  "audit/reference_crops/emr_panel.png"
+                  },
+                  {
+                      "anchor_id":  "icon_lab_flask_green",
+                      "source_bbox":  [
+                                          1300,
+                                          122,
+                                          52,
+                                          48
+                                      ],
+                      "crop_bbox":  [
+                                        1292,
+                                        114,
+                                        68,
+                                        64
+                                    ],
+                      "path":  "audit/reference_crops/icon_lab_flask_green.png"
+                  },
+                  {
+                      "anchor_id":  "lab_panel",
+                      "source_bbox":  [
+                                          1252,
+                                          168,
+                                          356,
+                                          125
+                                      ],
+                      "crop_bbox":  [
+                                        1244,
+                                        160,
+                                        372,
+                                        141
+                                    ],
+                      "path":  "audit/reference_crops/lab_panel.png"
+                  },
+                  {
+                      "anchor_id":  "brain_network",
+                      "source_bbox":  [
+                                          52,
+                                          438,
+                                          170,
+                                          150
+                                      ],
+                      "crop_bbox":  [
+                                        44,
+                                        430,
+                                        186,
+                                        166
+                                    ],
+                      "path":  "audit/reference_crops/brain_network.png"
+                  },
+                  {
+                      "anchor_id":  "knowledge_graph",
+                      "source_bbox":  [
+                                          252,
+                                          397,
+                                          232,
+                                          184
+                                      ],
+                      "crop_bbox":  [
+                                        244,
+                                        389,
+                                        248,
+                                        200
+                                    ],
+                      "path":  "audit/reference_crops/knowledge_graph.png"
+                  },
+                  {
+                      "anchor_id":  "encoder_cube",
+                      "source_bbox":  [
+                                          536,
+                                          407,
+                                          332,
+                                          150
+                                      ],
+                      "crop_bbox":  [
+                                        528,
+                                        399,
+                                        348,
+                                        166
+                                    ],
+                      "path":  "audit/reference_crops/encoder_cube.png"
+                  },
+                  {
+                      "anchor_id":  "icon_cube_feature",
+                      "source_bbox":  [
+                                          548,
+                                          565,
+                                          43,
+                                          43
+                                      ],
+                      "crop_bbox":  [
+                                        540,
+                                        557,
+                                        59,
+                                        59
+                                    ],
+                      "path":  "audit/reference_crops/icon_cube_feature.png"
+                  },
+                  {
+                      "anchor_id":  "icon_microscope_feature",
+                      "source_bbox":  [
+                                          625,
+                                          565,
+                                          43,
+                                          43
+                                      ],
+                      "crop_bbox":  [
+                                        617,
+                                        557,
+                                        59,
+                                        59
+                                    ],
+                      "path":  "audit/reference_crops/icon_microscope_feature.png"
+                  },
+                  {
+                      "anchor_id":  "icon_document_feature",
+                      "source_bbox":  [
+                                          700,
+                                          565,
+                                          43,
+                                          43
+                                      ],
+                      "crop_bbox":  [
+                                        692,
+                                        557,
+                                        59,
+                                        59
+                                    ],
+                      "path":  "audit/reference_crops/icon_document_feature.png"
+                  },
+                  {
+                      "anchor_id":  "icon_flask_feature",
+                      "source_bbox":  [
+                                          774,
+                                          565,
+                                          43,
+                                          43
+                                      ],
+                      "crop_bbox":  [
+                                        766,
+                                        557,
+                                        59,
+                                        59
+                                    ],
+                      "path":  "audit/reference_crops/icon_flask_feature.png"
+                  },
+                  {
+                      "anchor_id":  "risk_gauge",
+                      "source_bbox":  [
+                                          946,
+                                          412,
+                                          186,
+                                          125
+                                      ],
+                      "crop_bbox":  [
+                                        938,
+                                        404,
+                                        202,
+                                        141
+                                    ],
+                      "path":  "audit/reference_crops/risk_gauge.png"
+                  },
+                  {
+                      "anchor_id":  "roc_curve",
+                      "source_bbox":  [
+                                          944,
+                                          516,
+                                          170,
+                                          106
+                                      ],
+                      "crop_bbox":  [
+                                        936,
+                                        508,
+                                        186,
+                                        122
+                                    ],
+                      "path":  "audit/reference_crops/roc_curve.png"
+                  },
+                  {
+                      "anchor_id":  "risk_scale",
+                      "source_bbox":  [
+                                          1127,
+                                          554,
+                                          132,
+                                          38
+                                      ],
+                      "crop_bbox":  [
+                                        1119,
+                                        546,
+                                        148,
+                                        54
+                                    ],
+                      "path":  "audit/reference_crops/risk_scale.png"
+                  },
+                  {
+                      "anchor_id":  "explainability_heatmap",
+                      "source_bbox":  [
+                                          1365,
+                                          421,
+                                          180,
+                                          84
+                                      ],
+                      "crop_bbox":  [
+                                        1357,
+                                        413,
+                                        196,
+                                        100
+                                    ],
+                      "path":  "audit/reference_crops/explainability_heatmap.png"
+                  },
+                  {
+                      "anchor_id":  "feature_bars",
+                      "source_bbox":  [
+                                          1362,
+                                          536,
+                                          212,
+                                          85
+                                      ],
+                      "crop_bbox":  [
+                                        1354,
+                                        528,
+                                        228,
+                                        101
+                                    ],
+                      "path":  "audit/reference_crops/feature_bars.png"
+                  },
+                  {
+                      "anchor_id":  "medical_cross",
+                      "source_bbox":  [
+                                          56,
+                                          739,
+                                          150,
+                                          132
+                                      ],
+                      "crop_bbox":  [
+                                        48,
+                                        731,
+                                        166,
+                                        148
+                                    ],
+                      "path":  "audit/reference_crops/medical_cross.png"
+                  },
+                  {
+                      "anchor_id":  "icon_diagnosis_clipboard",
+                      "source_bbox":  [
+                                          254,
+                                          682,
+                                          38,
+                                          38
+                                      ],
+                      "crop_bbox":  [
+                                        246,
+                                        674,
+                                        54,
+                                        54
+                                    ],
+                      "path":  "audit/reference_crops/icon_diagnosis_clipboard.png"
+                  },
+                  {
+                      "anchor_id":  "diagnosis_panel",
+                      "source_bbox":  [
+                                          237,
+                                          720,
+                                          244,
+                                          168
+                                      ],
+                      "crop_bbox":  [
+                                        229,
+                                        712,
+                                        260,
+                                        184
+                                    ],
+                      "path":  "audit/reference_crops/diagnosis_panel.png"
+                  },
+                  {
+                      "anchor_id":  "icon_calendar",
+                      "source_bbox":  [
+                                          566,
+                                          682,
+                                          42,
+                                          38
+                                      ],
+                      "crop_bbox":  [
+                                        558,
+                                        674,
+                                        58,
+                                        54
+                                    ],
+                      "path":  "audit/reference_crops/icon_calendar.png"
+                  },
+                  {
+                      "anchor_id":  "followup_panel",
+                      "source_bbox":  [
+                                          504,
+                                          722,
+                                          332,
+                                          150
+                                      ],
+                      "crop_bbox":  [
+                                        496,
+                                        714,
+                                        348,
+                                        166
+                                    ],
+                      "path":  "audit/reference_crops/followup_panel.png"
+                  },
+                  {
+                      "anchor_id":  "icon_workstation_monitor",
+                      "source_bbox":  [
+                                          897,
+                                          682,
+                                          50,
+                                          38
+                                      ],
+                      "crop_bbox":  [
+                                        889,
+                                        674,
+                                        66,
+                                        54
+                                    ],
+                      "path":  "audit/reference_crops/icon_workstation_monitor.png"
+                  },
+                  {
+                      "anchor_id":  "doctor_workstation",
+                      "source_bbox":  [
+                                          862,
+                                          710,
+                                          350,
+                                          178
+                                      ],
+                      "crop_bbox":  [
+                                        854,
+                                        702,
+                                        366,
+                                        194
+                                    ],
+                      "path":  "audit/reference_crops/doctor_workstation.png"
+                  },
+                  {
+                      "anchor_id":  "icon_quality_shield",
+                      "source_bbox":  [
+                                          1265,
+                                          682,
+                                          44,
+                                          42
+                                      ],
+                      "crop_bbox":  [
+                                        1257,
+                                        674,
+                                        60,
+                                        58
+                                    ],
+                      "path":  "audit/reference_crops/icon_quality_shield.png"
+                  },
+                  {
+                      "anchor_id":  "quality_panel",
+                      "source_bbox":  [
+                                          1240,
+                                          718,
+                                          370,
+                                          170
+                                      ],
+                      "crop_bbox":  [
+                                        1232,
+                                        710,
+                                        386,
+                                        186
+                                    ],
+                      "path":  "audit/reference_crops/quality_panel.png"
+                  }
+              ]
+}

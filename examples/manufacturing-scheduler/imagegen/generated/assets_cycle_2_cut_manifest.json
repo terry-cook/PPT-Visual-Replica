@@ -1,0 +1,244 @@
+﻿{
+    "assets":  [
+                   {
+                       "id":  "sensor_data",
+                       "source_grid":  "imagegen/generated/assets_cycle_2_grid.png",
+                       "cell_bbox":  [
+                                         0,
+                                         0,
+                                         384,
+                                         256
+                                     ],
+                       "path":  "imagegen/transparent-assets/sensor_data.png",
+                       "size":  [
+                                    119,
+                                    203
+                                ]
+                   },
+                   {
+                       "id":  "equipment_status",
+                       "source_grid":  "imagegen/generated/assets_cycle_2_grid.png",
+                       "cell_bbox":  [
+                                         384,
+                                         0,
+                                         384,
+                                         256
+                                     ],
+                       "path":  "imagegen/transparent-assets/equipment_status.png",
+                       "size":  [
+                                    181,
+                                    169
+                                ]
+                   },
+                   {
+                       "id":  "environment_info",
+                       "source_grid":  "imagegen/generated/assets_cycle_2_grid.png",
+                       "cell_bbox":  [
+                                         768,
+                                         0,
+                                         384,
+                                         256
+                                     ],
+                       "path":  "imagegen/transparent-assets/environment_info.png",
+                       "size":  [
+                                    147,
+                                    166
+                                ]
+                   },
+                   {
+                       "id":  "scene_factory",
+                       "source_grid":  "imagegen/generated/assets_cycle_2_grid.png",
+                       "cell_bbox":  [
+                                         1152,
+                                         0,
+                                         384,
+                                         256
+                                     ],
+                       "path":  "imagegen/transparent-assets/scene_factory.png",
+                       "size":  [
+                                    204,
+                                    189
+                                ]
+                   },
+                   {
+                       "id":  "algorithm_chip",
+                       "source_grid":  "imagegen/generated/assets_cycle_2_grid.png",
+                       "cell_bbox":  [
+                                         0,
+                                         256,
+                                         384,
+                                         256
+                                     ],
+                       "path":  "imagegen/transparent-assets/algorithm_chip.png",
+                       "size":  [
+                                    169,
+                                    161
+                                ]
+                   },
+                   {
+                       "id":  "output_monitor",
+                       "source_grid":  "imagegen/generated/assets_cycle_2_grid.png",
+                       "cell_bbox":  [
+                                         384,
+                                         256,
+                                         384,
+                                         256
+                                     ],
+                       "path":  "imagegen/transparent-assets/output_monitor.png",
+                       "size":  [
+                                    187,
+                                    156
+                                ]
+                   },
+                   {
+                       "id":  "task_assign",
+                       "source_grid":  "imagegen/generated/assets_cycle_2_grid.png",
+                       "cell_bbox":  [
+                                         768,
+                                         256,
+                                         384,
+                                         256
+                                     ],
+                       "path":  "imagegen/transparent-assets/task_assign.png",
+                       "size":  [
+                                    142,
+                                    181
+                                ]
+                   },
+                   {
+                       "id":  "resource_cube",
+                       "source_grid":  "imagegen/generated/assets_cycle_2_grid.png",
+                       "cell_bbox":  [
+                                         1152,
+                                         256,
+                                         384,
+                                         256
+                                     ],
+                       "path":  "imagegen/transparent-assets/resource_cube.png",
+                       "size":  [
+                                    162,
+                                    205
+                                ]
+                   },
+                   {
+                       "id":  "energy_droplet",
+                       "source_grid":  "imagegen/generated/assets_cycle_2_grid.png",
+                       "cell_bbox":  [
+                                         0,
+                                         512,
+                                         384,
+                                         256
+                                     ],
+                       "path":  "imagegen/transparent-assets/energy_droplet.png",
+                       "size":  [
+                                    126,
+                                    254
+                                ]
+                   },
+                   {
+                       "id":  "constraint_shield",
+                       "source_grid":  "imagegen/generated/assets_cycle_2_grid.png",
+                       "cell_bbox":  [
+                                         384,
+                                         512,
+                                         384,
+                                         256
+                                     ],
+                       "path":  "imagegen/transparent-assets/constraint_shield.png",
+                       "size":  [
+                                    145,
+                                    245
+                                ]
+                   },
+                   {
+                       "id":  "anomaly_triangle",
+                       "source_grid":  "imagegen/generated/assets_cycle_2_grid.png",
+                       "cell_bbox":  [
+                                         768,
+                                         512,
+                                         384,
+                                         256
+                                     ],
+                       "path":  "imagegen/transparent-assets/anomaly_triangle.png",
+                       "size":  [
+                                    335,
+                                    149
+                                ]
+                   },
+                   {
+                       "id":  "robot_collab",
+                       "source_grid":  "imagegen/generated/assets_cycle_2_grid.png",
+                       "cell_bbox":  [
+                                         1152,
+                                         512,
+                                         384,
+                                         256
+                                     ],
+                       "path":  "imagegen/transparent-assets/robot_collab.png",
+                       "size":  [
+                                    215,
+                                    256
+                                ]
+                   },
+                   {
+                       "id":  "status_bars",
+                       "source_grid":  "imagegen/generated/assets_cycle_2_grid.png",
+                       "cell_bbox":  [
+                                         0,
+                                         768,
+                                         384,
+                                         256
+                                     ],
+                       "path":  "imagegen/transparent-assets/status_bars.png",
+                       "size":  [
+                                    169,
+                                    161
+                                ]
+                   },
+                   {
+                       "id":  "resource_pool_group",
+                       "source_grid":  "imagegen/generated/assets_cycle_2_grid.png",
+                       "cell_bbox":  [
+                                         384,
+                                         768,
+                                         384,
+                                         256
+                                     ],
+                       "path":  "imagegen/transparent-assets/resource_pool_group.png",
+                       "size":  [
+                                    249,
+                                    147
+                                ]
+                   },
+                   {
+                       "id":  "device_pool_group",
+                       "source_grid":  "imagegen/generated/assets_cycle_2_grid.png",
+                       "cell_bbox":  [
+                                         768,
+                                         768,
+                                         384,
+                                         256
+                                     ],
+                       "path":  "imagegen/transparent-assets/device_pool_group.png",
+                       "size":  [
+                                    365,
+                                    147
+                                ]
+                   },
+                   {
+                       "id":  "dispatch_nodes",
+                       "source_grid":  "imagegen/generated/assets_cycle_2_grid.png",
+                       "cell_bbox":  [
+                                         1152,
+                                         768,
+                                         384,
+                                         256
+                                     ],
+                       "path":  "imagegen/transparent-assets/dispatch_nodes.png",
+                       "size":  [
+                                    198,
+                                    161
+                                ]
+                   }
+               ]
+}

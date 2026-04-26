@@ -1,0 +1,182 @@
+[
+  {
+    "semantic_unit_id": "satellite_node",
+    "bbox_px": [
+      292,
+      664,
+      350,
+      720
+    ],
+    "class": "imagegen_asset"
+  },
+  {
+    "semantic_unit_id": "ground_station",
+    "bbox_px": [
+      215,
+      215,
+      260,
+      255
+    ],
+    "class": "imagegen_asset"
+  },
+  {
+    "semantic_unit_id": "database_stack",
+    "bbox_px": [
+      420,
+      340,
+      470,
+      390
+    ],
+    "class": "imagegen_asset"
+  },
+  {
+    "semantic_unit_id": "bar_chart",
+    "bbox_px": [
+      1015,
+      722,
+      1080,
+      770
+    ],
+    "class": "imagegen_asset"
+  },
+  {
+    "semantic_unit_id": "line_pie_chart",
+    "bbox_px": [
+      605,
+      335,
+      720,
+      390
+    ],
+    "class": "imagegen_asset"
+  },
+  {
+    "semantic_unit_id": "network_graph",
+    "bbox_px": [
+      835,
+      345,
+      968,
+      390
+    ],
+    "class": "imagegen_asset"
+  },
+  {
+    "semantic_unit_id": "shield_check",
+    "bbox_px": [
+      1425,
+      350,
+      1470,
+      395
+    ],
+    "class": "imagegen_asset"
+  },
+  {
+    "semantic_unit_id": "robot_agent",
+    "bbox_px": [
+      710,
+      505,
+      750,
+      552
+    ],
+    "class": "imagegen_asset"
+  },
+  {
+    "semantic_unit_id": "server_rack",
+    "bbox_px": [
+      363,
+      508,
+      390,
+      558
+    ],
+    "class": "imagegen_asset"
+  },
+  {
+    "semantic_unit_id": "document_check",
+    "bbox_px": [
+      1225,
+      492,
+      1272,
+      536
+    ],
+    "class": "imagegen_asset"
+  },
+  {
+    "semantic_unit_id": "monitor_dashboard",
+    "bbox_px": [
+      1320,
+      655,
+      1510,
+      775
+    ],
+    "class": "imagegen_asset"
+  },
+  {
+    "semantic_unit_id": "target",
+    "bbox_px": [
+      182,
+      842,
+      244,
+      905
+    ],
+    "class": "imagegen_asset"
+  },
+  {
+    "semantic_unit_id": "circular_arrows",
+    "bbox_px": [
+      1296,
+      858,
+      1338,
+      898
+    ],
+    "class": "imagegen_asset"
+  },
+  {
+    "semantic_unit_id": "wireless_status",
+    "bbox_px": [
+      365,
+      555,
+      395,
+      588
+    ],
+    "class": "imagegen_asset"
+  },
+  {
+    "semantic_unit_id": "collaboration_group",
+    "bbox_px": [
+      85,
+      560,
+      170,
+      612
+    ],
+    "class": "imagegen_asset"
+  },
+  {
+    "semantic_unit_id": "brain_head",
+    "bbox_px": [
+      316,
+      858,
+      355,
+      896
+    ],
+    "class": "imagegen_asset"
+  },
+  {
+    "semantic_unit_id": "server_gear",
+    "bbox_px": [
+      965,
+      858,
+      1010,
+      896
+    ],
+    "class": "imagegen_asset"
+  },
+  {
+    "semantic_unit_id": "task_cube",
+    "bbox_px": [
+      384,
+      214,
+      404,
+      234
+    ],
+    "class": "imagegen_asset"
+  }
+]

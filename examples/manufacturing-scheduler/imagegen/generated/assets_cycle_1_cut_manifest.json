@@ -1,0 +1,184 @@
+﻿{
+    "assets":  [
+                   {
+                       "id":  "amr",
+                       "source_grid":  "imagegen/generated/assets_cycle_1_grid.png",
+                       "cell_bbox":  [
+                                         0,
+                                         0,
+                                         384,
+                                         341
+                                     ],
+                       "path":  "imagegen/transparent-assets/amr.png",
+                       "size":  [
+                                    242,
+                                    197
+                                ]
+                   },
+                   {
+                       "id":  "robot_arm",
+                       "source_grid":  "imagegen/generated/assets_cycle_1_grid.png",
+                       "cell_bbox":  [
+                                         384,
+                                         0,
+                                         384,
+                                         341
+                                     ],
+                       "path":  "imagegen/transparent-assets/robot_arm.png",
+                       "size":  [
+                                    306,
+                                    252
+                                ]
+                   },
+                   {
+                       "id":  "agv",
+                       "source_grid":  "imagegen/generated/assets_cycle_1_grid.png",
+                       "cell_bbox":  [
+                                         768,
+                                         0,
+                                         384,
+                                         341
+                                     ],
+                       "path":  "imagegen/transparent-assets/agv.png",
+                       "size":  [
+                                    289,
+                                    190
+                                ]
+                   },
+                   {
+                       "id":  "server",
+                       "source_grid":  "imagegen/generated/assets_cycle_1_grid.png",
+                       "cell_bbox":  [
+                                         1152,
+                                         0,
+                                         384,
+                                         341
+                                     ],
+                       "path":  "imagegen/transparent-assets/server.png",
+                       "size":  [
+                                    193,
+                                    264
+                                ]
+                   },
+                   {
+                       "id":  "database",
+                       "source_grid":  "imagegen/generated/assets_cycle_1_grid.png",
+                       "cell_bbox":  [
+                                         0,
+                                         341,
+                                         384,
+                                         341
+                                     ],
+                       "path":  "imagegen/transparent-assets/database.png",
+                       "size":  [
+                                    162,
+                                    221
+                                ]
+                   },
+                   {
+                       "id":  "twin_screen",
+                       "source_grid":  "imagegen/generated/assets_cycle_1_grid.png",
+                       "cell_bbox":  [
+                                         384,
+                                         341,
+                                         384,
+                                         341
+                                     ],
+                       "path":  "imagegen/transparent-assets/twin_screen.png",
+                       "size":  [
+                                    341,
+                                    204
+                                ]
+                   },
+                   {
+                       "id":  "clipboard",
+                       "source_grid":  "imagegen/generated/assets_cycle_1_grid.png",
+                       "cell_bbox":  [
+                                         768,
+                                         341,
+                                         384,
+                                         341
+                                     ],
+                       "path":  "imagegen/transparent-assets/clipboard.png",
+                       "size":  [
+                                    185,
+                                    234
+                                ]
+                   },
+                   {
+                       "id":  "brain_scheduler",
+                       "source_grid":  "imagegen/generated/assets_cycle_1_grid.png",
+                       "cell_bbox":  [
+                                         1152,
+                                         341,
+                                         384,
+                                         341
+                                     ],
+                       "path":  "imagegen/transparent-assets/brain_scheduler.png",
+                       "size":  [
+                                    215,
+                                    210
+                                ]
+                   },
+                   {
+                       "id":  "alarm",
+                       "source_grid":  "imagegen/generated/assets_cycle_1_grid.png",
+                       "cell_bbox":  [
+                                         0,
+                                         683,
+                                         384,
+                                         341
+                                     ],
+                       "path":  "imagegen/transparent-assets/alarm.png",
+                       "size":  [
+                                    271,
+                                    159
+                                ]
+                   },
+                   {
+                       "id":  "energy_leaf_battery",
+                       "source_grid":  "imagegen/generated/assets_cycle_1_grid.png",
+                       "cell_bbox":  [
+                                         384,
+                                         683,
+                                         384,
+                                         341
+                                     ],
+                       "path":  "imagegen/transparent-assets/energy_leaf_battery.png",
+                       "size":  [
+                                    269,
+                                    181
+                                ]
+                   },
+                   {
+                       "id":  "route_kpi",
+                       "source_grid":  "imagegen/generated/assets_cycle_1_grid.png",
+                       "cell_bbox":  [
+                                         768,
+                                         683,
+                                         384,
+                                         341
+                                     ],
+                       "path":  "imagegen/transparent-assets/route_kpi.png",
+                       "size":  [
+                                    294,
+                                    161
+                                ]
+                   },
+                   {
+                       "id":  "kpi_dashboard",
+                       "source_grid":  "imagegen/generated/assets_cycle_1_grid.png",
+                       "cell_bbox":  [
+                                         1152,
+                                         683,
+                                         384,
+                                         341
+                                     ],
+                       "path":  "imagegen/transparent-assets/kpi_dashboard.png",
+                       "size":  [
+                                    297,
+                                    213
+                                ]
+                   }
+               ]
+}

@@ -1,0 +1,1 @@
+{"image_inputs": ["reference.png", "reference_crops/*.png"], "prompt": "3x4 grid: AMR, robot arm, AGV, server, database, digital twin screen, clipboard, brain scheduler, alarm, energy leaves and battery, route pins, KPI dashboard; flat #00ff00 chroma-key; no text.", "background": "#00ff00", "source": "built-in image_gen"}

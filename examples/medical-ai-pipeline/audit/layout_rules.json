@@ -1,0 +1,19 @@
+{
+  "slide_size_px": [
+    1672,
+    941
+  ],
+  "coordinate_source": "reference red-box coordinates in original 1672x941 image",
+  "image_scaling": "fit contain, preserve aspect ratio",
+  "native_allowed": [
+    "background",
+    "panels",
+    "frames",
+    "connectors",
+    "structural arrows",
+    "text boxes",
+    "layout tabs"
+  ],
+  "semantic_visuals": "all medical icons, screenshots, charts, diagrams, brain/network/device visuals are imagegen_asset",
+  "text_policy": "major labels and annotations are editable PPT text boxes with fixed line counts where needed"
+}

@@ -1,0 +1,25 @@
+{
+  "font": "Microsoft YaHei",
+  "title_group": {
+    "align": "center",
+    "controlled_lines": [
+      1,
+      1
+    ]
+  },
+  "native_allowed": [
+    "background",
+    "panel",
+    "frame",
+    "divider",
+    "connector",
+    "structural_arrow",
+    "text_container"
+  ],
+  "image_fit": "contain only; no one-axis stretching",
+  "layer_palette": {
+    "scene": "0E67C8",
+    "scheduler": "00A8A8",
+    "output": "FF7A1A"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "checks": {
+    "reference_bitmap_not_used_as_final_slide": true,
+    "generated_scene_background_used_for_top_layer": true,
+    "semantic_visuals_are_independent_png_objects": true,
+    "text_is_editable_ppt_text": true,
+    "layout_shapes_are_native_only": true,
+    "no_hand_drawn_semantic_vectors": true,
+    "uniform_image_contain_scaling": true
+  },
+  "semantic_image_units": 36,
+  "scene_background_units": 1,
+  "notes": [
+    "IMAGE GEN generated assets are stylistic replicas rather than exact OCR/vector traces.",
+    "PPTX parity was not checked with PowerPoint/LibreOffice; a script-rendered preview is included for visual inspection."
+  ]
+}

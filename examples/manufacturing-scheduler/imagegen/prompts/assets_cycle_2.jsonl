@@ -1,0 +1,1 @@
+{"image_inputs": ["reference.png", "reference_crops/*.png"], "prompt": "4x4 grid: sensing/status/environment/factory/chip/output/task/resource/energy/constraint/anomaly/collaboration/status/resource pool/device pool/dispatch icons; flat #00ff00 chroma-key; no text.", "background": "#00ff00", "source": "built-in image_gen"}

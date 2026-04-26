@@ -1,0 +1,1 @@
+{"image_inputs": ["reference.png", "reference_crops/*.png"], "prompt": "1x2 grid: green energy leaf battery and green energy-down KPI chart; flat #ff00ff chroma-key; no text or numbers.", "background": "#ff00ff", "source": "built-in image_gen"}

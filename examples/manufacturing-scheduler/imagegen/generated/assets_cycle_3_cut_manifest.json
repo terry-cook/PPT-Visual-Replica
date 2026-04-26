@@ -1,0 +1,94 @@
+﻿{
+    "assets":  [
+                   {
+                       "id":  "kpi_bar_1",
+                       "source_grid":  "imagegen/generated/assets_cycle_3_grid.png",
+                       "cell_bbox":  [
+                                         0,
+                                         0,
+                                         512,
+                                         512
+                                     ],
+                       "path":  "imagegen/transparent-assets/kpi_bar_1.png",
+                       "size":  [
+                                    389,
+                                    326
+                                ]
+                   },
+                   {
+                       "id":  "kpi_bar_2",
+                       "source_grid":  "imagegen/generated/assets_cycle_3_grid.png",
+                       "cell_bbox":  [
+                                         512,
+                                         0,
+                                         512,
+                                         512
+                                     ],
+                       "path":  "imagegen/transparent-assets/kpi_bar_2.png",
+                       "size":  [
+                                    393,
+                                    327
+                                ]
+                   },
+                   {
+                       "id":  "kpi_line_blue",
+                       "source_grid":  "imagegen/generated/assets_cycle_3_grid.png",
+                       "cell_bbox":  [
+                                         1024,
+                                         0,
+                                         512,
+                                         512
+                                     ],
+                       "path":  "imagegen/transparent-assets/kpi_line_blue.png",
+                       "size":  [
+                                    393,
+                                    327
+                                ]
+                   },
+                   {
+                       "id":  "kpi_line_green",
+                       "source_grid":  "imagegen/generated/assets_cycle_3_grid.png",
+                       "cell_bbox":  [
+                                         0,
+                                         512,
+                                         512,
+                                         512
+                                     ],
+                       "path":  "imagegen/transparent-assets/kpi_line_green.png",
+                       "size":  [
+                                    389,
+                                    324
+                                ]
+                   },
+                   {
+                       "id":  "kpi_line_orange",
+                       "source_grid":  "imagegen/generated/assets_cycle_3_grid.png",
+                       "cell_bbox":  [
+                                         512,
+                                         512,
+                                         512,
+                                         512
+                                     ],
+                       "path":  "imagegen/transparent-assets/kpi_line_orange.png",
+                       "size":  [
+                                    393,
+                                    324
+                                ]
+                   },
+                   {
+                       "id":  "kpi_card_blank",
+                       "source_grid":  "imagegen/generated/assets_cycle_3_grid.png",
+                       "cell_bbox":  [
+                                         1024,
+                                         512,
+                                         512,
+                                         512
+                                     ],
+                       "path":  "imagegen/transparent-assets/kpi_card_blank.png",
+                       "size":  [
+                                    393,
+                                    324
+                                ]
+                   }
+               ]
+}

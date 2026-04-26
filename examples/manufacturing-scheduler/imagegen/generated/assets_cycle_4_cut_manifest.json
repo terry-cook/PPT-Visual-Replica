@@ -1,0 +1,34 @@
+﻿{
+    "assets":  [
+                   {
+                       "id":  "energy_leaf_battery",
+                       "source_grid":  "imagegen/generated/assets_cycle_4_grid.png",
+                       "cell_bbox":  [
+                                         0,
+                                         0,
+                                         887,
+                                         887
+                                     ],
+                       "path":  "imagegen/transparent-assets/energy_leaf_battery.png",
+                       "size":  [
+                                    685,
+                                    493
+                                ]
+                   },
+                   {
+                       "id":  "kpi_line_green",
+                       "source_grid":  "imagegen/generated/assets_cycle_4_grid.png",
+                       "cell_bbox":  [
+                                         887,
+                                         0,
+                                         887,
+                                         887
+                                     ],
+                       "path":  "imagegen/transparent-assets/kpi_line_green.png",
+                       "size":  [
+                                    605,
+                                    523
+                                ]
+                   }
+               ]
+}

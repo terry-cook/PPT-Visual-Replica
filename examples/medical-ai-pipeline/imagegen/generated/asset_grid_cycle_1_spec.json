@@ -1,0 +1,23 @@
+{
+  "background": "#00ff00",
+  "cells": [
+    { "id": "database_orbit", "bbox": [20, 80, 270, 230] },
+    { "id": "ct_scan_screen", "bbox": [310, 95, 320, 190] },
+    { "id": "pathology_slide", "bbox": [635, 95, 310, 190] },
+    { "id": "emr_panel", "bbox": [940, 90, 340, 210] },
+    { "id": "lab_panel", "bbox": [1270, 90, 360, 220] },
+    { "id": "brain_network", "bbox": [25, 365, 250, 240] },
+    { "id": "knowledge_graph", "bbox": [290, 365, 300, 230] },
+    { "id": "encoder_cube", "bbox": [590, 365, 340, 230] },
+    { "id": "risk_gauge", "bbox": [930, 390, 230, 190] },
+    { "id": "roc_curve", "bbox": [1135, 380, 240, 200] },
+    { "id": "risk_scale", "bbox": [1380, 445, 280, 110] },
+    { "id": "explainability_heatmap", "bbox": [20, 655, 270, 190] },
+    { "id": "feature_bars", "bbox": [300, 655, 210, 180] },
+    { "id": "medical_cross", "bbox": [510, 640, 240, 220] },
+    { "id": "diagnosis_panel", "bbox": [725, 645, 220, 210] },
+    { "id": "followup_panel", "bbox": [920, 645, 208, 210] },
+    { "id": "doctor_workstation", "bbox": [1130, 635, 230, 230] },
+    { "id": "quality_panel", "bbox": [1380, 645, 280, 210] }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "status": "validated",
+  "pptx": "replica.pptx",
+  "preview": "preview.png",
+  "asset_count": 30,
+  "text_object_count": 45,
+  "layout_native_count": 24,
+  "semantic_visual_rule": "no hand-drawn semantic vector visuals; all semantic non-text visuals are generated PNG assets",
+  "preview_inspected": true,
+  "pptx_package_check": {
+      "pptx": "replica.pptx",
+    "checks": {
+      "slide_count": 1,
+      "media_count": 30
+    },
+    "failures": [],
+    "warnings": []
+  },
+  "pptx_parity_checked": "package-level OpenXML/media inspection only; desktop PowerPoint render was not launched",
+  "unresolved_issues": []
+}

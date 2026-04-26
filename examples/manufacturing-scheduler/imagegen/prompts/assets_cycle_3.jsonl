@@ -1,0 +1,1 @@
+{"image_inputs": ["reference.png", "reference_crops/*.png"], "prompt": "2x3 grid: KPI mini chart icons and blank KPI card; flat #00ff00 chroma-key; no text or numbers.", "background": "#00ff00", "source": "built-in image_gen"}

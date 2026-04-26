@@ -1,0 +1,509 @@
+{
+  "canvas": {
+    "width": 1672,
+    "height": 941
+  },
+  "classes": {
+    "text": [
+      "标题",
+      "副标题",
+      "多源感知输入",
+      "设备/资源/KPI标签",
+      "订单需求文本",
+      "调度器模块标签",
+      "输出决策文本",
+      "KPI数值文本"
+    ],
+    "layout_native": [
+      "三层主面板",
+      "侧边层级色带",
+      "数据流箭头",
+      "卡片框",
+      "虚线反馈闭环",
+      "模块连接线"
+    ],
+    "imagegen_asset": [
+      {
+        "semantic_unit_id": "scene_bg",
+        "class": "generated_scene_background",
+        "path": "scene_background_top.png",
+        "bbox": [
+          122,
+          107,
+          1526,
+          255
+        ],
+        "semantic_unit_count": null,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "scene_layer_icon",
+        "class": "imagegen_asset",
+        "path": "scene_factory.png",
+        "bbox": [
+          36,
+          176,
+          62,
+          62
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "sensor_icon",
+        "class": "imagegen_asset",
+        "path": "sensor_data.png",
+        "bbox": [
+          263,
+          140,
+          45,
+          42
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "status_icon",
+        "class": "imagegen_asset",
+        "path": "equipment_status.png",
+        "bbox": [
+          367,
+          141,
+          48,
+          42
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "environment_icon",
+        "class": "imagegen_asset",
+        "path": "environment_info.png",
+        "bbox": [
+          468,
+          140,
+          50,
+          42
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "amr_1",
+        "class": "imagegen_asset",
+        "path": "amr.png",
+        "bbox": [
+          165,
+          246,
+          126,
+          74
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "robot_arm_1",
+        "class": "imagegen_asset",
+        "path": "robot_arm.png",
+        "bbox": [
+          360,
+          219,
+          134,
+          94
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "amr_2",
+        "class": "imagegen_asset",
+        "path": "amr.png",
+        "bbox": [
+          618,
+          247,
+          126,
+          74
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "agv_1",
+        "class": "imagegen_asset",
+        "path": "agv.png",
+        "bbox": [
+          760,
+          250,
+          134,
+          73
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "robot_arm_2",
+        "class": "imagegen_asset",
+        "path": "robot_arm.png",
+        "bbox": [
+          980,
+          218,
+          134,
+          94
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "server_1",
+        "class": "imagegen_asset",
+        "path": "server.png",
+        "bbox": [
+          1128,
+          190,
+          88,
+          126
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "database_1",
+        "class": "imagegen_asset",
+        "path": "database.png",
+        "bbox": [
+          1250,
+          206,
+          93,
+          112
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "twin_screen_1",
+        "class": "imagegen_asset",
+        "path": "twin_screen.png",
+        "bbox": [
+          1358,
+          159,
+          248,
+          153
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "algorithm_layer_icon",
+        "class": "imagegen_asset",
+        "path": "algorithm_chip.png",
+        "bbox": [
+          36,
+          500,
+          64,
+          64
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "order_clipboard",
+        "class": "imagegen_asset",
+        "path": "clipboard.png",
+        "bbox": [
+          223,
+          492,
+          72,
+          86
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "task_assign_icon",
+        "class": "imagegen_asset",
+        "path": "task_assign.png",
+        "bbox": [
+          507,
+          441,
+          36,
+          36
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "resource_icon",
+        "class": "imagegen_asset",
+        "path": "resource_cube.png",
+        "bbox": [
+          506,
+          519,
+          38,
+          38
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "energy_icon",
+        "class": "imagegen_asset",
+        "path": "energy_droplet.png",
+        "bbox": [
+          506,
+          592,
+          38,
+          38
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "constraint_icon",
+        "class": "imagegen_asset",
+        "path": "constraint_shield.png",
+        "bbox": [
+          706,
+          434,
+          32,
+          32
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "brain_scheduler_icon",
+        "class": "imagegen_asset",
+        "path": "brain_scheduler.png",
+        "bbox": [
+          801,
+          496,
+          78,
+          65
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "policy_update_icon",
+        "class": "imagegen_asset",
+        "path": "dispatch_nodes.png",
+        "bbox": [
+          742,
+          614,
+          32,
+          32
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "anomaly_icon",
+        "class": "imagegen_asset",
+        "path": "alarm.png",
+        "bbox": [
+          1045,
+          443,
+          44,
+          36
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "collab_icon",
+        "class": "imagegen_asset",
+        "path": "robot_collab.png",
+        "bbox": [
+          1046,
+          512,
+          44,
+          42
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "status_eval_icon",
+        "class": "imagegen_asset",
+        "path": "status_bars.png",
+        "bbox": [
+          1046,
+          591,
+          44,
+          42
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "resource_pool_group_icon",
+        "class": "imagegen_asset",
+        "path": "resource_pool_group.png",
+        "bbox": [
+          1306,
+          492,
+          126,
+          40
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "device_pool_group_icon",
+        "class": "imagegen_asset",
+        "path": "device_pool_group.png",
+        "bbox": [
+          1306,
+          574,
+          126,
+          44
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "output_layer_icon",
+        "class": "imagegen_asset",
+        "path": "output_monitor.png",
+        "bbox": [
+          36,
+          788,
+          62,
+          62
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "decision_graph_icon",
+        "class": "imagegen_asset",
+        "path": "dispatch_nodes.png",
+        "bbox": [
+          184,
+          782,
+          114,
+          60
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "execution_doc_icon",
+        "class": "imagegen_asset",
+        "path": "task_assign.png",
+        "bbox": [
+          407,
+          791,
+          58,
+          70
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "route_icon",
+        "class": "imagegen_asset",
+        "path": "route_kpi.png",
+        "bbox": [
+          560,
+          790,
+          96,
+          63
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "alarm_output_icon",
+        "class": "imagegen_asset",
+        "path": "alarm.png",
+        "bbox": [
+          738,
+          788,
+          78,
+          62
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "energy_output_icon",
+        "class": "imagegen_asset",
+        "path": "energy_leaf_battery.png",
+        "bbox": [
+          884,
+          788,
+          80,
+          65
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "kpi_bar_completion",
+        "class": "imagegen_asset",
+        "path": "kpi_bar_1.png",
+        "bbox": [
+          1026,
+          820,
+          78,
+          42
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "kpi_bar_utilization",
+        "class": "imagegen_asset",
+        "path": "kpi_bar_2.png",
+        "bbox": [
+          1140,
+          820,
+          78,
+          42
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "kpi_line_response",
+        "class": "imagegen_asset",
+        "path": "kpi_line_blue.png",
+        "bbox": [
+          1261,
+          820,
+          78,
+          42
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "kpi_line_energy",
+        "class": "imagegen_asset",
+        "path": "kpi_line_green.png",
+        "bbox": [
+          1375,
+          820,
+          78,
+          42
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      },
+      {
+        "semantic_unit_id": "kpi_line_anomaly",
+        "class": "imagegen_asset",
+        "path": "kpi_line_orange.png",
+        "bbox": [
+          1489,
+          820,
+          78,
+          42
+        ],
+        "semantic_unit_count": 1,
+        "source_type": "imagegen_asset"
+      }
+    ]
+  }
+}

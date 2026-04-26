@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Local one-off runs that are not curated examples.
+local-runs/
+tmp/
+scratch/
+
+# PowerPoint/Office transient files.
+~$*.pptx
+~$*.ppt
+

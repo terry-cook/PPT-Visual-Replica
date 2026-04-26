@@ -1,0 +1,334 @@
+{
+  "matches": [
+    {
+      "id": "database_orbit",
+      "anchor_id": "database_orbit",
+      "bbox": [
+        42,
+        174,
+        176,
+        128
+      ],
+      "assigned_asset": "assets/database_orbit.png"
+    },
+    {
+      "id": "icon_ct_magnifier",
+      "anchor_id": "icon_ct_magnifier",
+      "bbox": [
+        300,
+        124,
+        50,
+        44
+      ],
+      "assigned_asset": "assets/icon_ct_magnifier.png"
+    },
+    {
+      "id": "ct_scan_screen",
+      "anchor_id": "ct_scan_screen",
+      "bbox": [
+        275,
+        170,
+        260,
+        120
+      ],
+      "assigned_asset": "assets/ct_scan_screen.png"
+    },
+    {
+      "id": "icon_microscope_header",
+      "anchor_id": "icon_microscope_header",
+      "bbox": [
+        608,
+        122,
+        46,
+        48
+      ],
+      "assigned_asset": "assets/icon_microscope_header.png"
+    },
+    {
+      "id": "pathology_slide",
+      "anchor_id": "pathology_slide",
+      "bbox": [
+        579,
+        169,
+        262,
+        122
+      ],
+      "assigned_asset": "assets/pathology_slide.png"
+    },
+    {
+      "id": "icon_emr_clipboard",
+      "anchor_id": "icon_emr_clipboard",
+      "bbox": [
+        939,
+        122,
+        48,
+        48
+      ],
+      "assigned_asset": "assets/icon_emr_clipboard.png"
+    },
+    {
+      "id": "emr_panel",
+      "anchor_id": "emr_panel",
+      "bbox": [
+        888,
+        168,
+        318,
+        124
+      ],
+      "assigned_asset": "assets/emr_panel.png"
+    },
+    {
+      "id": "icon_lab_flask_green",
+      "anchor_id": "icon_lab_flask_green",
+      "bbox": [
+        1300,
+        122,
+        52,
+        48
+      ],
+      "assigned_asset": "assets/icon_flask_feature.png"
+    },
+    {
+      "id": "lab_panel",
+      "anchor_id": "lab_panel",
+      "bbox": [
+        1252,
+        168,
+        356,
+        125
+      ],
+      "assigned_asset": "assets/lab_panel.png"
+    },
+    {
+      "id": "brain_network",
+      "anchor_id": "brain_network",
+      "bbox": [
+        52,
+        438,
+        170,
+        150
+      ],
+      "assigned_asset": "assets/brain_network.png"
+    },
+    {
+      "id": "knowledge_graph",
+      "anchor_id": "knowledge_graph",
+      "bbox": [
+        252,
+        397,
+        232,
+        184
+      ],
+      "assigned_asset": "assets/knowledge_graph.png"
+    },
+    {
+      "id": "encoder_cube",
+      "anchor_id": "encoder_cube",
+      "bbox": [
+        536,
+        407,
+        332,
+        150
+      ],
+      "assigned_asset": "assets/encoder_cube.png"
+    },
+    {
+      "id": "icon_cube_feature",
+      "anchor_id": "icon_cube_feature",
+      "bbox": [
+        548,
+        565,
+        43,
+        43
+      ],
+      "assigned_asset": "assets/icon_cube_feature.png"
+    },
+    {
+      "id": "icon_microscope_feature",
+      "anchor_id": "icon_microscope_feature",
+      "bbox": [
+        625,
+        565,
+        43,
+        43
+      ],
+      "assigned_asset": "assets/icon_microscope_feature.png"
+    },
+    {
+      "id": "icon_document_feature",
+      "anchor_id": "icon_document_feature",
+      "bbox": [
+        700,
+        565,
+        43,
+        43
+      ],
+      "assigned_asset": "assets/icon_document_feature.png"
+    },
+    {
+      "id": "icon_flask_feature",
+      "anchor_id": "icon_flask_feature",
+      "bbox": [
+        774,
+        565,
+        43,
+        43
+      ],
+      "assigned_asset": "assets/icon_flask_feature.png"
+    },
+    {
+      "id": "risk_gauge",
+      "anchor_id": "risk_gauge",
+      "bbox": [
+        946,
+        412,
+        186,
+        125
+      ],
+      "assigned_asset": "assets/risk_gauge.png"
+    },
+    {
+      "id": "roc_curve",
+      "anchor_id": "roc_curve",
+      "bbox": [
+        944,
+        516,
+        170,
+        106
+      ],
+      "assigned_asset": "assets/roc_curve.png"
+    },
+    {
+      "id": "risk_scale",
+      "anchor_id": "risk_scale",
+      "bbox": [
+        1127,
+        554,
+        132,
+        38
+      ],
+      "assigned_asset": "assets/risk_scale.png"
+    },
+    {
+      "id": "explainability_heatmap",
+      "anchor_id": "explainability_heatmap",
+      "bbox": [
+        1365,
+        421,
+        180,
+        84
+      ],
+      "assigned_asset": "assets/explainability_heatmap.png"
+    },
+    {
+      "id": "feature_bars",
+      "anchor_id": "feature_bars",
+      "bbox": [
+        1362,
+        536,
+        212,
+        85
+      ],
+      "assigned_asset": "assets/feature_bars.png"
+    },
+    {
+      "id": "medical_cross",
+      "anchor_id": "medical_cross",
+      "bbox": [
+        56,
+        739,
+        150,
+        132
+      ],
+      "assigned_asset": "assets/medical_cross.png"
+    },
+    {
+      "id": "icon_diagnosis_clipboard",
+      "anchor_id": "icon_diagnosis_clipboard",
+      "bbox": [
+        254,
+        682,
+        38,
+        38
+      ],
+      "assigned_asset": "assets/icon_diagnosis_clipboard.png"
+    },
+    {
+      "id": "diagnosis_panel",
+      "anchor_id": "diagnosis_panel",
+      "bbox": [
+        237,
+        720,
+        244,
+        168
+      ],
+      "assigned_asset": "assets/diagnosis_panel.png"
+    },
+    {
+      "id": "icon_calendar",
+      "anchor_id": "icon_calendar",
+      "bbox": [
+        566,
+        682,
+        42,
+        38
+      ],
+      "assigned_asset": "assets/icon_calendar.png"
+    },
+    {
+      "id": "followup_panel",
+      "anchor_id": "followup_panel",
+      "bbox": [
+        504,
+        722,
+        332,
+        150
+      ],
+      "assigned_asset": "assets/followup_panel.png"
+    },
+    {
+      "id": "icon_workstation_monitor",
+      "anchor_id": "icon_workstation_monitor",
+      "bbox": [
+        897,
+        682,
+        50,
+        38
+      ],
+      "assigned_asset": "assets/icon_workstation_monitor.png"
+    },
+    {
+      "id": "doctor_workstation",
+      "anchor_id": "doctor_workstation",
+      "bbox": [
+        862,
+        710,
+        350,
+        178
+      ],
+      "assigned_asset": "assets/doctor_workstation.png"
+    },
+    {
+      "id": "icon_quality_shield",
+      "anchor_id": "icon_quality_shield",
+      "bbox": [
+        1265,
+        682,
+        44,
+        42
+      ],
+      "assigned_asset": "assets/icon_quality_shield.png"
+    },
+    {
+      "id": "quality_panel",
+      "anchor_id": "quality_panel",
+      "bbox": [
+        1240,
+        718,
+        370,
+        170
+      ],
+      "assigned_asset": "assets/quality_panel.png"
+    }
+  ]
+}

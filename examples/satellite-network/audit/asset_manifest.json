@@ -1,0 +1,803 @@
+{
+  "assets": [
+    {
+      "asset_id": "bar_chart",
+      "role": "imagegen_asset",
+      "path": "assets/bar_chart.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    },
+    {
+      "asset_id": "bar_chart_green",
+      "role": "imagegen_asset",
+      "path": "assets/bar_chart_green.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    },
+    {
+      "asset_id": "bar_chart_orange",
+      "role": "imagegen_asset",
+      "path": "assets/bar_chart_orange.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    },
+    {
+      "asset_id": "brain_head",
+      "role": "imagegen_asset",
+      "path": "assets/brain_head.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    },
+    {
+      "asset_id": "circular_arrows",
+      "role": "imagegen_asset",
+      "path": "assets/circular_arrows.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    },
+    {
+      "asset_id": "collaboration_group",
+      "role": "imagegen_asset",
+      "path": "assets/collaboration_group.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    },
+    {
+      "asset_id": "database_stack",
+      "role": "imagegen_asset",
+      "path": "assets/database_stack.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    },
+    {
+      "asset_id": "document_check",
+      "role": "imagegen_asset",
+      "path": "assets/document_check.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    },
+    {
+      "asset_id": "ground_station",
+      "role": "imagegen_asset",
+      "path": "assets/ground_station.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    },
+    {
+      "asset_id": "line_pie_chart",
+      "role": "imagegen_asset",
+      "path": "assets/line_pie_chart.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    },
+    {
+      "asset_id": "monitor_dashboard",
+      "role": "imagegen_asset",
+      "path": "assets/monitor_dashboard.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    },
+    {
+      "asset_id": "network_graph",
+      "role": "imagegen_asset",
+      "path": "assets/network_graph.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    },
+    {
+      "asset_id": "network_graph_orange",
+      "role": "imagegen_asset",
+      "path": "assets/network_graph_orange.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    },
+    {
+      "asset_id": "robot_agent",
+      "role": "imagegen_asset",
+      "path": "assets/robot_agent.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    },
+    {
+      "asset_id": "satellite_node",
+      "role": "imagegen_asset",
+      "path": "assets/satellite_node.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    },
+    {
+      "asset_id": "server_gear",
+      "role": "imagegen_asset",
+      "path": "assets/server_gear.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    },
+    {
+      "asset_id": "server_gear_teal",
+      "role": "imagegen_asset",
+      "path": "assets/server_gear_teal.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    },
+    {
+      "asset_id": "server_rack",
+      "role": "imagegen_asset",
+      "path": "assets/server_rack.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    },
+    {
+      "asset_id": "shield_check",
+      "role": "imagegen_asset",
+      "path": "assets/shield_check.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    },
+    {
+      "asset_id": "space_earth_background",
+      "role": "generated_scene_background",
+      "path": "assets/space_earth_background.png",
+      "source": "imagegen_space_background",
+      "semantic_unit_count": "background"
+    },
+    {
+      "asset_id": "target",
+      "role": "imagegen_asset",
+      "path": "assets/target.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    },
+    {
+      "asset_id": "task_cube",
+      "role": "imagegen_asset",
+      "path": "assets/task_cube.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    },
+    {
+      "asset_id": "wireless_status",
+      "role": "imagegen_asset",
+      "path": "assets/wireless_status.png",
+      "source": "imagegen_asset_grid_cycle_1",
+      "semantic_unit_count": 1
+    }
+  ],
+  "placements": [
+    {
+      "semantic_unit_id": "scene_top_space_background",
+      "asset": "space_earth_background.png",
+      "bbox_px": [
+        185,
+        112,
+        1300,
+        154
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "top_card_icon_1",
+      "asset": "satellite_node.png",
+      "bbox_px": [
+        288.0,
+        141.3,
+        44.0,
+        41.4
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "top_card_icon_2",
+      "asset": "database_stack.png",
+      "bbox_px": [
+        692.1,
+        141.0,
+        35.7,
+        42.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "top_card_icon_3",
+      "asset": "bar_chart.png",
+      "bbox_px": [
+        1078.8,
+        141.0,
+        42.4,
+        42.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "top_network_node_1",
+      "asset": "ground_station.png",
+      "bbox_px": [
+        232.2,
+        220.0,
+        29.6,
+        34.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "top_network_node_2",
+      "asset": "satellite_node.png",
+      "bbox_px": [
+        570.0,
+        225.0,
+        34.0,
+        32.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "top_network_node_3",
+      "asset": "satellite_node.png",
+      "bbox_px": [
+        845.0,
+        218.8,
+        28.0,
+        26.4
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "top_network_node_4",
+      "asset": "satellite_node.png",
+      "bbox_px": [
+        1010.0,
+        198.8,
+        28.0,
+        26.4
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "top_network_node_5",
+      "asset": "satellite_node.png",
+      "bbox_px": [
+        1115.0,
+        220.9,
+        32.0,
+        30.1
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "top_network_node_6",
+      "asset": "ground_station.png",
+      "bbox_px": [
+        1392.8,
+        220.0,
+        38.3,
+        44.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "top_cube_1",
+      "asset": "task_cube.png",
+      "bbox_px": [
+        385.7,
+        214.0,
+        18.5,
+        20.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "top_cube_2",
+      "asset": "task_cube.png",
+      "bbox_px": [
+        720.7,
+        212.0,
+        18.5,
+        20.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "top_cube_3",
+      "asset": "task_cube.png",
+      "bbox_px": [
+        1200.7,
+        214.0,
+        18.5,
+        20.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "legend_satellite_node",
+      "asset": "satellite_node.png",
+      "bbox_px": [
+        1519.3,
+        128.0,
+        23.4,
+        22.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "legend_task_cube",
+      "asset": "task_cube.png",
+      "bbox_px": [
+        1520.8,
+        180.0,
+        20.4,
+        22.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "legend_ground_station",
+      "asset": "ground_station.png",
+      "bbox_px": [
+        1521.4,
+        232.0,
+        19.2,
+        22.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row1_left_network",
+      "asset": "network_graph.png",
+      "bbox_px": [
+        96.8,
+        382.0,
+        56.4,
+        44.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row1_module_1_satellite_node",
+      "asset": "satellite_node.png",
+      "bbox_px": [
+        388.1,
+        346.0,
+        48.9,
+        46.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row1_module_2_line_pie_chart",
+      "asset": "line_pie_chart.png",
+      "bbox_px": [
+        634.6,
+        346.0,
+        60.9,
+        46.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row1_module_3_network_graph",
+      "asset": "network_graph.png",
+      "bbox_px": [
+        875.5,
+        346.0,
+        59.0,
+        46.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row1_module_4_network_graph",
+      "asset": "network_graph.png",
+      "bbox_px": [
+        1122.5,
+        346.0,
+        59.0,
+        46.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row1_module_5_shield_check",
+      "asset": "shield_check.png",
+      "bbox_px": [
+        1375.5,
+        346.0,
+        39.1,
+        46.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row2_left_group",
+      "asset": "collaboration_group.png",
+      "bbox_px": [
+        102.7,
+        564.0,
+        46.7,
+        42.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row2_input_1",
+      "asset": "document_check.png",
+      "bbox_px": [
+        365.0,
+        490.9,
+        28.0,
+        22.2
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row2_input_2",
+      "asset": "server_rack.png",
+      "bbox_px": [
+        365.4,
+        526.0,
+        27.2,
+        28.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row2_input_3",
+      "asset": "wireless_status.png",
+      "bbox_px": [
+        365.0,
+        566.4,
+        28.0,
+        23.2
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row2_agent_1",
+      "asset": "robot_agent.png",
+      "bbox_px": [
+        702.3,
+        510.0,
+        37.4,
+        38.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row2_agent_2",
+      "asset": "robot_agent.png",
+      "bbox_px": [
+        817.3,
+        510.0,
+        37.4,
+        38.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row2_agent_3",
+      "asset": "robot_agent.png",
+      "bbox_px": [
+        942.3,
+        510.0,
+        37.4,
+        38.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row2_agent_4",
+      "asset": "robot_agent.png",
+      "bbox_px": [
+        1052.3,
+        510.0,
+        37.4,
+        38.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row2_output_strategy",
+      "asset": "document_check.png",
+      "bbox_px": [
+        1240.0,
+        492.8,
+        36.0,
+        28.5
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row2_output_resource",
+      "asset": "server_rack.png",
+      "bbox_px": [
+        1241.5,
+        542.0,
+        33.0,
+        34.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row3_left_monitor",
+      "asset": "monitor_dashboard.png",
+      "bbox_px": [
+        96.9,
+        742.0,
+        52.1,
+        44.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row3_satellite_1",
+      "asset": "satellite_node.png",
+      "bbox_px": [
+        313.1,
+        690.0,
+        31.9,
+        30.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row3_satellite_2",
+      "asset": "satellite_node.png",
+      "bbox_px": [
+        383.1,
+        690.0,
+        31.9,
+        30.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row3_satellite_3",
+      "asset": "satellite_node.png",
+      "bbox_px": [
+        453.1,
+        690.0,
+        31.9,
+        30.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row3_satellite_4",
+      "asset": "satellite_node.png",
+      "bbox_px": [
+        523.1,
+        690.0,
+        31.9,
+        30.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row3_satellite_5",
+      "asset": "satellite_node.png",
+      "bbox_px": [
+        593.1,
+        690.0,
+        31.9,
+        30.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row3_satellite_6",
+      "asset": "satellite_node.png",
+      "bbox_px": [
+        345.1,
+        725.0,
+        31.9,
+        30.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row3_satellite_7",
+      "asset": "satellite_node.png",
+      "bbox_px": [
+        453.1,
+        725.0,
+        31.9,
+        30.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row3_satellite_8",
+      "asset": "satellite_node.png",
+      "bbox_px": [
+        563.1,
+        725.0,
+        31.9,
+        30.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row3_load_高负载",
+      "asset": "bar_chart_orange.png",
+      "bbox_px": [
+        734.8,
+        724.0,
+        34.4,
+        34.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row3_load_中负载",
+      "asset": "bar_chart.png",
+      "bbox_px": [
+        841.8,
+        724.0,
+        34.4,
+        34.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row3_load_低负载",
+      "asset": "bar_chart_green.png",
+      "bbox_px": [
+        948.8,
+        724.0,
+        34.4,
+        34.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row3_metric_1",
+      "asset": "circular_arrows.png",
+      "bbox_px": [
+        1093.4,
+        690.0,
+        25.3,
+        26.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row3_metric_2",
+      "asset": "wireless_status.png",
+      "bbox_px": [
+        1092.0,
+        721.4,
+        28.0,
+        23.2
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row3_metric_3",
+      "asset": "shield_check.png",
+      "bbox_px": [
+        1095.0,
+        750.0,
+        22.1,
+        26.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "row3_dashboard_monitor",
+      "asset": "monitor_dashboard.png",
+      "bbox_px": [
+        1348.7,
+        666.0,
+        112.6,
+        95.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "bottom_target",
+      "asset": "target.png",
+      "bbox_px": [
+        180.0,
+        845.0,
+        62.0,
+        62.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "bottom_flow_1_brain_head",
+      "asset": "brain_head.png",
+      "bbox_px": [
+        321.6,
+        860.0,
+        32.9,
+        36.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "bottom_flow_2_network_graph_orange",
+      "asset": "network_graph_orange.png",
+      "bbox_px": [
+        648.0,
+        862.4,
+        40.0,
+        31.2
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "bottom_flow_3_server_gear_teal",
+      "asset": "server_gear_teal.png",
+      "bbox_px": [
+        968.0,
+        861.2,
+        40.0,
+        33.6
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    },
+    {
+      "semantic_unit_id": "bottom_flow_4_circular_arrows",
+      "asset": "circular_arrows.png",
+      "bbox_px": [
+        1295.5,
+        860.0,
+        35.0,
+        36.0
+      ],
+      "semantic_unit_count": 1,
+      "fit": "contain"
+    }
+  ]
+}

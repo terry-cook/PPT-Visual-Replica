@@ -1,0 +1,399 @@
+{
+  "imagegen_mode": "built-in image_gen with chroma-key extraction",
+  "source_grids": [
+    "generated/asset_grid_cycle_1.png",
+    "generated/icon_grid_cycle_1.png"
+  ],
+  "assets": [
+    {
+      "id": "database_orbit",
+      "path": "assets/database_orbit.png",
+      "placement_bbox": [
+        42,
+        174,
+        176,
+        128
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/asset_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "icon_ct_magnifier",
+      "path": "assets/icon_ct_magnifier.png",
+      "placement_bbox": [
+        300,
+        124,
+        50,
+        44
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/icon_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "ct_scan_screen",
+      "path": "assets/ct_scan_screen.png",
+      "placement_bbox": [
+        275,
+        170,
+        260,
+        120
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/asset_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "icon_microscope_header",
+      "path": "assets/icon_microscope_header.png",
+      "placement_bbox": [
+        608,
+        122,
+        46,
+        48
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/icon_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "pathology_slide",
+      "path": "assets/pathology_slide.png",
+      "placement_bbox": [
+        579,
+        169,
+        262,
+        122
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/asset_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "icon_emr_clipboard",
+      "path": "assets/icon_emr_clipboard.png",
+      "placement_bbox": [
+        939,
+        122,
+        48,
+        48
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/icon_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "emr_panel",
+      "path": "assets/emr_panel.png",
+      "placement_bbox": [
+        888,
+        168,
+        318,
+        124
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/asset_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "icon_lab_flask_green",
+      "path": "assets/icon_flask_feature.png",
+      "placement_bbox": [
+        1300,
+        122,
+        52,
+        48
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/icon_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "lab_panel",
+      "path": "assets/lab_panel.png",
+      "placement_bbox": [
+        1252,
+        168,
+        356,
+        125
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/asset_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "brain_network",
+      "path": "assets/brain_network.png",
+      "placement_bbox": [
+        52,
+        438,
+        170,
+        150
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/asset_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "knowledge_graph",
+      "path": "assets/knowledge_graph.png",
+      "placement_bbox": [
+        252,
+        397,
+        232,
+        184
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/asset_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "encoder_cube",
+      "path": "assets/encoder_cube.png",
+      "placement_bbox": [
+        536,
+        407,
+        332,
+        150
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/asset_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "icon_cube_feature",
+      "path": "assets/icon_cube_feature.png",
+      "placement_bbox": [
+        548,
+        565,
+        43,
+        43
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/icon_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "icon_microscope_feature",
+      "path": "assets/icon_microscope_feature.png",
+      "placement_bbox": [
+        625,
+        565,
+        43,
+        43
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/icon_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "icon_document_feature",
+      "path": "assets/icon_document_feature.png",
+      "placement_bbox": [
+        700,
+        565,
+        43,
+        43
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/icon_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "icon_flask_feature",
+      "path": "assets/icon_flask_feature.png",
+      "placement_bbox": [
+        774,
+        565,
+        43,
+        43
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/icon_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "risk_gauge",
+      "path": "assets/risk_gauge.png",
+      "placement_bbox": [
+        946,
+        412,
+        186,
+        125
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/asset_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "roc_curve",
+      "path": "assets/roc_curve.png",
+      "placement_bbox": [
+        944,
+        516,
+        170,
+        106
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/asset_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "risk_scale",
+      "path": "assets/risk_scale.png",
+      "placement_bbox": [
+        1127,
+        554,
+        132,
+        38
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/asset_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "explainability_heatmap",
+      "path": "assets/explainability_heatmap.png",
+      "placement_bbox": [
+        1365,
+        421,
+        180,
+        84
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/asset_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "feature_bars",
+      "path": "assets/feature_bars.png",
+      "placement_bbox": [
+        1362,
+        536,
+        212,
+        85
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/asset_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "medical_cross",
+      "path": "assets/medical_cross.png",
+      "placement_bbox": [
+        56,
+        739,
+        150,
+        132
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/asset_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "icon_diagnosis_clipboard",
+      "path": "assets/icon_diagnosis_clipboard.png",
+      "placement_bbox": [
+        254,
+        682,
+        38,
+        38
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/icon_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "diagnosis_panel",
+      "path": "assets/diagnosis_panel.png",
+      "placement_bbox": [
+        237,
+        720,
+        244,
+        168
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/asset_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "icon_calendar",
+      "path": "assets/icon_calendar.png",
+      "placement_bbox": [
+        566,
+        682,
+        42,
+        38
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/icon_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "followup_panel",
+      "path": "assets/followup_panel.png",
+      "placement_bbox": [
+        504,
+        722,
+        332,
+        150
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/asset_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "icon_workstation_monitor",
+      "path": "assets/icon_workstation_monitor.png",
+      "placement_bbox": [
+        897,
+        682,
+        50,
+        38
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/icon_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "doctor_workstation",
+      "path": "assets/doctor_workstation.png",
+      "placement_bbox": [
+        862,
+        710,
+        350,
+        178
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/asset_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "icon_quality_shield",
+      "path": "assets/icon_quality_shield.png",
+      "placement_bbox": [
+        1265,
+        682,
+        44,
+        42
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/icon_grid_cycle_1_manifest.json"
+    },
+    {
+      "id": "quality_panel",
+      "path": "assets/quality_panel.png",
+      "placement_bbox": [
+        1240,
+        718,
+        370,
+        170
+      ],
+      "semantic_unit_count": 1,
+      "scaling": "uniform contain",
+      "source_record": "generated/asset_grid_cycle_1_manifest.json"
+    }
+  ]
+}

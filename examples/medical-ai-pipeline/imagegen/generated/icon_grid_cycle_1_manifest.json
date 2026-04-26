@@ -1,0 +1,184 @@
+﻿{
+    "assets":  [
+                   {
+                       "id":  "icon_ct_magnifier",
+                       "source_grid":  "imagegen/generated/icon_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         180,
+                                         80,
+                                         260,
+                                         240
+                                     ],
+                       "path":  "imagegen/transparent-assets/icon_ct_magnifier.png",
+                       "size":  [
+                                    208,
+                                    192
+                                ]
+                   },
+                   {
+                       "id":  "icon_microscope_header",
+                       "source_grid":  "imagegen/generated/icon_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         530,
+                                         70,
+                                         260,
+                                         250
+                                     ],
+                       "path":  "imagegen/transparent-assets/icon_microscope_header.png",
+                       "size":  [
+                                    152,
+                                    203
+                                ]
+                   },
+                   {
+                       "id":  "icon_emr_clipboard",
+                       "source_grid":  "imagegen/generated/icon_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         900,
+                                         70,
+                                         260,
+                                         260
+                                     ],
+                       "path":  "imagegen/transparent-assets/icon_emr_clipboard.png",
+                       "size":  [
+                                    165,
+                                    217
+                                ]
+                   },
+                   {
+                       "id":  "icon_lab_flask_green",
+                       "source_grid":  "imagegen/generated/icon_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         1250,
+                                         70,
+                                         270,
+                                         260
+                                     ],
+                       "path":  "imagegen/transparent-assets/icon_lab_flask_green.png",
+                       "size":  [
+                                    164,
+                                    192
+                                ]
+                   },
+                   {
+                       "id":  "icon_cube_feature",
+                       "source_grid":  "imagegen/generated/icon_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         180,
+                                         365,
+                                         260,
+                                         230
+                                     ],
+                       "path":  "imagegen/transparent-assets/icon_cube_feature.png",
+                       "size":  [
+                                    173,
+                                    184
+                                ]
+                   },
+                   {
+                       "id":  "icon_microscope_feature",
+                       "source_grid":  "imagegen/generated/icon_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         530,
+                                         360,
+                                         260,
+                                         240
+                                     ],
+                       "path":  "imagegen/transparent-assets/icon_microscope_feature.png",
+                       "size":  [
+                                    151,
+                                    173
+                                ]
+                   },
+                   {
+                       "id":  "icon_document_feature",
+                       "source_grid":  "imagegen/generated/icon_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         900,
+                                         360,
+                                         260,
+                                         250
+                                     ],
+                       "path":  "imagegen/transparent-assets/icon_document_feature.png",
+                       "size":  [
+                                    144,
+                                    185
+                                ]
+                   },
+                   {
+                       "id":  "icon_flask_feature",
+                       "source_grid":  "imagegen/generated/icon_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         1250,
+                                         360,
+                                         270,
+                                         250
+                                     ],
+                       "path":  "imagegen/transparent-assets/icon_flask_feature.png",
+                       "size":  [
+                                    157,
+                                    184
+                                ]
+                   },
+                   {
+                       "id":  "icon_diagnosis_clipboard",
+                       "source_grid":  "imagegen/generated/icon_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         180,
+                                         640,
+                                         260,
+                                         250
+                                     ],
+                       "path":  "imagegen/transparent-assets/icon_diagnosis_clipboard.png",
+                       "size":  [
+                                    155,
+                                    197
+                                ]
+                   },
+                   {
+                       "id":  "icon_calendar",
+                       "source_grid":  "imagegen/generated/icon_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         530,
+                                         640,
+                                         260,
+                                         250
+                                     ],
+                       "path":  "imagegen/transparent-assets/icon_calendar.png",
+                       "size":  [
+                                    183,
+                                    180
+                                ]
+                   },
+                   {
+                       "id":  "icon_workstation_monitor",
+                       "source_grid":  "imagegen/generated/icon_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         885,
+                                         640,
+                                         280,
+                                         250
+                                     ],
+                       "path":  "imagegen/transparent-assets/icon_workstation_monitor.png",
+                       "size":  [
+                                    211,
+                                    178
+                                ]
+                   },
+                   {
+                       "id":  "icon_quality_shield",
+                       "source_grid":  "imagegen/generated/icon_grid_cycle_1.png",
+                       "cell_bbox":  [
+                                         1235,
+                                         625,
+                                         300,
+                                         280
+                                     ],
+                       "path":  "imagegen/transparent-assets/icon_quality_shield.png",
+                       "size":  [
+                                    164,
+                                    192
+                                ]
+                   }
+               ]
+}

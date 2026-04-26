@@ -1,0 +1,364 @@
+{
+  "matches": [
+    {
+      "semantic_unit_id": "scene_layer_icon",
+      "bbox": [
+        36,
+        176,
+        62,
+        62
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "sensor_icon",
+      "bbox": [
+        263,
+        140,
+        45,
+        42
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "status_icon",
+      "bbox": [
+        367,
+        141,
+        48,
+        42
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "environment_icon",
+      "bbox": [
+        468,
+        140,
+        50,
+        42
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "amr_1",
+      "bbox": [
+        165,
+        246,
+        126,
+        74
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "robot_arm_1",
+      "bbox": [
+        360,
+        219,
+        134,
+        94
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "amr_2",
+      "bbox": [
+        618,
+        247,
+        126,
+        74
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "agv_1",
+      "bbox": [
+        760,
+        250,
+        134,
+        73
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "robot_arm_2",
+      "bbox": [
+        980,
+        218,
+        134,
+        94
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "server_1",
+      "bbox": [
+        1128,
+        190,
+        88,
+        126
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "database_1",
+      "bbox": [
+        1250,
+        206,
+        93,
+        112
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "twin_screen_1",
+      "bbox": [
+        1358,
+        159,
+        248,
+        153
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "algorithm_layer_icon",
+      "bbox": [
+        36,
+        500,
+        64,
+        64
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "order_clipboard",
+      "bbox": [
+        223,
+        492,
+        72,
+        86
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "task_assign_icon",
+      "bbox": [
+        507,
+        441,
+        36,
+        36
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "resource_icon",
+      "bbox": [
+        506,
+        519,
+        38,
+        38
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "energy_icon",
+      "bbox": [
+        506,
+        592,
+        38,
+        38
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "constraint_icon",
+      "bbox": [
+        706,
+        434,
+        32,
+        32
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "brain_scheduler_icon",
+      "bbox": [
+        801,
+        496,
+        78,
+        65
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "policy_update_icon",
+      "bbox": [
+        742,
+        614,
+        32,
+        32
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "anomaly_icon",
+      "bbox": [
+        1045,
+        443,
+        44,
+        36
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "collab_icon",
+      "bbox": [
+        1046,
+        512,
+        44,
+        42
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "status_eval_icon",
+      "bbox": [
+        1046,
+        591,
+        44,
+        42
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "resource_pool_group_icon",
+      "bbox": [
+        1306,
+        492,
+        126,
+        40
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "device_pool_group_icon",
+      "bbox": [
+        1306,
+        574,
+        126,
+        44
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "output_layer_icon",
+      "bbox": [
+        36,
+        788,
+        62,
+        62
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "decision_graph_icon",
+      "bbox": [
+        184,
+        782,
+        114,
+        60
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "execution_doc_icon",
+      "bbox": [
+        407,
+        791,
+        58,
+        70
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "route_icon",
+      "bbox": [
+        560,
+        790,
+        96,
+        63
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "alarm_output_icon",
+      "bbox": [
+        738,
+        788,
+        78,
+        62
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "energy_output_icon",
+      "bbox": [
+        884,
+        788,
+        80,
+        65
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "kpi_bar_completion",
+      "bbox": [
+        1026,
+        820,
+        78,
+        42
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "kpi_bar_utilization",
+      "bbox": [
+        1140,
+        820,
+        78,
+        42
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "kpi_line_response",
+      "bbox": [
+        1261,
+        820,
+        78,
+        42
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "kpi_line_energy",
+      "bbox": [
+        1375,
+        820,
+        78,
+        42
+      ],
+      "class": "imagegen_asset"
+    },
+    {
+      "semantic_unit_id": "kpi_line_anomaly",
+      "bbox": [
+        1489,
+        820,
+        78,
+        42
+      ],
+      "class": "imagegen_asset"
+    }
+  ]
+}
